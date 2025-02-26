@@ -6,32 +6,31 @@ labels: Bug
 assignees: Gameking1happy
 
 ---
-
 **Describe the bug**  
-A clear and concise description of what the bug is.
+<!--Give a clear and concise description of what the bug is.-->
 
 **To Reproduce**  
-Steps to reproduce the behavior:  
+<!--Provide steps to reproduce the behavior, like so:  
 1. Go to '...'  
 2. Click on '....'  
 3. Scroll down to '....'  
-4. See error
+4. See error-->
 
 **Expected behavior**  
-A clear and concise description of what you expected to happen.
+<!--Give a clear and concise description of what you expected to happen.-->
 
 **Screenshots**  
-If applicable, add screenshots to help explain your problem.
+<!--If applicable, add screenshots to help explain your problem.-->
 
 **Device, Launcher, and Version (please complete the following information):**  
-Windows/MacOS/Linux  
+<!--Windows/MacOS/Linux  
 OS Version  
 Modrinth/CurseForge/ATLauncher/Prism Launcher/Minecraft Launcher/Other  
 Launcher Version  
 Fabric Version  
 Client/Server  
 Modpack Version  
-Release/Beta/Alpha  
+Release/Beta/Alpha-->
 
 **Additional context**  
-Add any other context about the problem here.
+<!--Add any other context about the problem here.-->
