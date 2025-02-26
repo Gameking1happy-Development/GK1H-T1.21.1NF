@@ -6,6 +6,7 @@ labels: Bug
 assignees: Gameking1happy
 
 ---
+<!--IF THIS IS A SECURITY VULNERABILITY OPEN A REPORT FOR THAT HERE: https://github.com/Gameking1happy-Development/GK1H-Vanilla-Plus/security/advisories/new-->
 **Describe the bug**  
 <!--Give a clear and concise description of what the bug is.-->
 
