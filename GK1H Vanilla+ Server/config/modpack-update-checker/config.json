@@ -4,8 +4,7 @@
   "modpackName": "GK1H Vanilla+",
   "modpackAuthor": "Gameking1happy Development",
   "modpackReleaseType": "alpha",
-  "updateCheckerId": "",
-  "githubRepo": "https://raw.githubusercontent.com/Gameking1happy-Development/GK1H-Vanilla-Plus/refs/heads/main/MPUC/",
+  "updateCheckerId": "https://raw.githubusercontent.com/Gameking1happy-Development/GK1H-Vanilla-Plus/refs/heads/main/MPUC/",
   "advanced": {
     "bccEnabled": false,
     "expandButton": false,

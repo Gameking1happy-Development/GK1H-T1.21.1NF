@@ -5,3 +5,5 @@ Removed Cupboard since no mods that depend on it are installed, and it cannot be
 # Fixes
 
 Fixed FancyMenu not being in modpack mode.
+
+Fixed MPCU.
