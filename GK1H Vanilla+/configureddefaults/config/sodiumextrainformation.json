@@ -1,0 +1,13 @@
+{
+  "extra_information_settings": {
+    "show_local_time": true,
+    "local_time_format": "HH:mm",
+    "show_word_time": false,
+    "show_session_time": false,
+    "show_memory_usage": false,
+    "show_memory_usage_extended": false,
+    "show_total_entity_count": false,
+    "shows_rendered_entities": false,
+    "show_biome": false
+  }
+}
