@@ -1,0 +1,18 @@
+{
+    "schemaVersion": 1,
+    "hotfixesFormat": null,
+    "versions": [
+        {
+            "id": "0.8.0",
+            "releasedAt": 987654321098765,
+            "updateType":"incompatible",
+            "promotions": {
+                "downloads": {
+                    "modrinth": "https://modrinth.com/",
+                    "curseforge": "https://curseforge.com/",
+                    "generic": "https://example.com/"
+                }
+            }
+        }
+    ]
+  }
