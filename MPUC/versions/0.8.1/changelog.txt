@@ -1,0 +1,7 @@
+# Mod Removals
+
+Removed Cupboard since no mods that depend on it are installed, and it cannot be used in Modrinth modpacks.
+
+# Fixes
+
+Fixed FancyMenu not being in modpack mode.

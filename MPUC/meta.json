@@ -8,9 +8,20 @@
             "updateType":"incompatible",
             "promotions": {
                 "downloads": {
+                    "curseforge": "https://www.curseforge.com/minecraft/modpacks/gk1h-vanilla-plus/files/6246963/",
+                    "generic": "https://github.com/Gameking1happy-Development/GK1H-Vanilla-Plus/releases/tag/0.8.0/"
+                }
+            }
+        },
+        {
+            "id": "0.8.1",
+            "releasedAt": 987654321098765,
+            "updateType":"minor",
+            "promotions": {
+                "downloads": {
                     "modrinth": "https://modrinth.com/",
-                    "curseforge": "https://curseforge.com/",
-                    "generic": "https://example.com/"
+                    "curseforge": "https://www.curseforge.com/minecraft/modpacks/gk1h-vanilla-plus/files/placeholder/",
+                    "generic": "https://github.com/Gameking1happy-Development/GK1H-Vanilla-Plus/releases/tag/0.8.1/"
                 }
             }
         }

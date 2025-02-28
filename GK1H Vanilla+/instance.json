@@ -459,9 +459,9 @@
           "classId": 6,
           "slug": "crawl",
           "isFeatured": false,
-          "dateModified": "2025-01-16T19:09:37.607Z",
+          "dateModified": "2025-02-08T13:13:17.63Z",
           "dateCreated": "2019-02-15T22:29:21.837Z",
-          "dateReleased": "2025-01-13T17:21:26.873Z",
+          "dateReleased": "2025-02-08T13:08:39.743Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/crawl",
             "wikiUrl": "",
@@ -477,7 +477,7 @@
           },
           "allowModDistribution": true,
           "screenshots": [],
-          "mainFileId": 5994380
+          "mainFileId": 6171032
         },
         "curseForgeFile": {
           "id": 5489993,
@@ -658,6 +658,397 @@
         "userAdded": true,
         "wasSelected": true,
         "skipped": false,
+        "curseForgeProjectId": 1201803,
+        "curseForgeFileId": 6200076,
+        "curseForgeProject": {
+          "id": 1201803,
+          "name": "GPUTape",
+          "authors": [
+            {
+              "id": 113204335,
+              "name": "MrToad",
+              "url": "https://www.curseforge.com/members/mrtoad"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Fix VRAM leaks. Based on VideoTape.",
+          "categories": [
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Bug Fixes",
+              "slug": "bug-fixes",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/bug-fixes",
+              "dateModified": "2024-01-17T06:56:01.62Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 6821,
+              "iconUrl": "https://media.forgecdn.net/avatars/934/473/638410713616155958.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Performance",
+              "slug": "performance",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/performance",
+              "dateModified": "2024-01-16T06:56:01.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 6814,
+              "iconUrl": "https://media.forgecdn.net/avatars/933/987/638409849610531091.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 6814,
+          "classId": 6,
+          "slug": "gputape",
+          "isFeatured": false,
+          "dateModified": "2025-02-17T09:17:13.1Z",
+          "dateCreated": "2025-02-16T16:45:57.347Z",
+          "dateReleased": "2025-02-16T17:05:40.793Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/gputape",
+            "issuesUrl": "https://github.com/ITsMrToad/GpuTape/issues",
+            "sourceUrl": "https://github.com/ITsMrToad/GpuTape"
+          },
+          "logo": {
+            "id": 1180051,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/1180/51/256/256/638753211573736646.png",
+            "title": "638753211573736646.png",
+            "url": "https://media.forgecdn.net/avatars/1180/51/638753211573736646.png",
+            "modId": 1201803
+          },
+          "allowModDistribution": false,
+          "screenshots": [],
+          "mainFileId": 6200076
+        },
+        "curseForgeFile": {
+          "id": 6200076,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "GPUTape 1.18x-1.21x-Fabric",
+          "fileName": "GpuTape-1.18x-1.21x-1.0.5.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2025-02-16T17:05:40.793Z",
+          "fileLength": 23724,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 635429,
+              "relationType": 2
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2331755384,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3281984971,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3386192740,
+              "name": "com"
+            },
+            {
+              "fingerprint": 2680026495,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 3995439498,
+              "name": "gpu_tape.mixins.json"
+            },
+            {
+              "fingerprint": 1493072104,
+              "name": "gpu_tape.refmap.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "bcfb81808c318356e7a7a4544be27b220fecfd96",
+              "algo": 1
+            },
+            {
+              "value": "181ba18282bf3a8ef020fecc5bd306dd",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000003",
+              "gameVersion": "1.19.3",
+              "gameVersionReleaseDate": "2022-10-19T00:00:00Z",
+              "gameVersionName": "1.19.3"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000002",
+              "gameVersion": "1.20.2",
+              "gameVersionReleaseDate": "2023-09-21T15:25:15.053Z",
+              "gameVersionName": "1.20.2"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021.0000000002",
+              "gameVersion": "1.21.2",
+              "gameVersionReleaseDate": "2024-08-16T00:00:00Z",
+              "gameVersionName": "1.21.2-Snapshot"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021",
+              "gameVersion": "1.21",
+              "gameVersionReleaseDate": "2024-06-14T00:00:00Z",
+              "gameVersionName": "1.21"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000018.0000000001",
+              "gameVersion": "1.18.1",
+              "gameVersionReleaseDate": "2021-12-10T10:37:38.06Z",
+              "gameVersionName": "1.18.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000004",
+              "gameVersion": "1.19.4",
+              "gameVersionReleaseDate": "2023-04-19T00:00:00Z",
+              "gameVersionName": "1.19.4-Snapshot"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000005",
+              "gameVersion": "1.20.5",
+              "gameVersionReleaseDate": "2024-04-23T15:00:48.803Z",
+              "gameVersionName": "1.20.5"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000002",
+              "gameVersion": "1.20.2",
+              "gameVersionReleaseDate": "2023-08-06T00:00:00Z",
+              "gameVersionName": "1.20.2-Snapshot"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000005",
+              "gameVersion": "1.20.5",
+              "gameVersionReleaseDate": "2023-12-18T00:00:00Z",
+              "gameVersionName": "1.20.5-Snapshot"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000004",
+              "gameVersion": "1.19.4",
+              "gameVersionReleaseDate": "2023-03-09T00:00:00Z",
+              "gameVersionName": "1.19.4"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019",
+              "gameVersion": "1.19",
+              "gameVersionReleaseDate": "2022-02-21T00:00:00Z",
+              "gameVersionName": "1.19-Snapshot"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021.0000000001",
+              "gameVersion": "1.21.1",
+              "gameVersionReleaseDate": "2024-08-07T00:00:00Z",
+              "gameVersionName": "1.21.1-Snapshot"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021.0000000004",
+              "gameVersion": "1.21.4",
+              "gameVersionReleaseDate": "2024-12-03T16:26:15.35Z",
+              "gameVersionName": "1.21.4"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021.0000000005",
+              "gameVersion": "1.21.5",
+              "gameVersionReleaseDate": "2025-01-10T00:00:00Z",
+              "gameVersionName": "1.21.5-Snapshot"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000018.0000000002",
+              "gameVersion": "1.18.2",
+              "gameVersionReleaseDate": "2022-02-28T14:23:37.723Z",
+              "gameVersionName": "1.18.2"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000003",
+              "gameVersion": "1.20.3",
+              "gameVersionReleaseDate": "2023-10-05T00:00:00Z",
+              "gameVersionName": "1.20.3-Snapshot"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000003",
+              "gameVersion": "1.20.3",
+              "gameVersionReleaseDate": "2023-12-05T17:24:10.113Z",
+              "gameVersionName": "1.20.3"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000006",
+              "gameVersion": "1.20.6",
+              "gameVersionReleaseDate": "2024-04-29T15:15:44.67Z",
+              "gameVersionName": "1.20.6"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000001",
+              "gameVersion": "1.19.1",
+              "gameVersionReleaseDate": "2022-06-28T00:00:00Z",
+              "gameVersionName": "1.19.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000004",
+              "gameVersion": "1.20.4",
+              "gameVersionReleaseDate": "2023-12-07T15:17:47.907Z",
+              "gameVersionName": "1.20.4"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021",
+              "gameVersion": "1.21",
+              "gameVersionReleaseDate": "2024-05-04T00:00:00Z",
+              "gameVersionName": "1.21-Snapshot"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021.0000000003",
+              "gameVersion": "1.21.3",
+              "gameVersionReleaseDate": "2024-10-23T13:16:45.71Z",
+              "gameVersionName": "1.21.3"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2022-10-27T00:00:00Z",
+              "gameVersionName": "1.20-Snapshot"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021.0000000001",
+              "gameVersion": "1.21.1",
+              "gameVersionReleaseDate": "2024-08-08T15:17:53.787Z",
+              "gameVersionName": "1.21.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000018",
+              "gameVersion": "1.18",
+              "gameVersionReleaseDate": "2021-11-30T16:23:01.427Z",
+              "gameVersionName": "1.18"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000018",
+              "gameVersion": "1.18",
+              "gameVersionReleaseDate": "2021-08-12T00:00:00Z",
+              "gameVersionName": "1.18-Snapshot"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-05-26T00:00:00Z",
+              "gameVersionName": "Quilt"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019",
+              "gameVersion": "1.19",
+              "gameVersionReleaseDate": "2022-06-07T15:38:07.377Z",
+              "gameVersionName": "1.19"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021.0000000004",
+              "gameVersion": "1.21.4",
+              "gameVersionReleaseDate": "2024-11-01T00:00:00Z",
+              "gameVersionName": "1.21.4-Snapshot"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000003",
+              "gameVersion": "1.19.3",
+              "gameVersionReleaseDate": "2023-01-01T00:00:00Z",
+              "gameVersionName": "1.19.3-Snapshot"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021.0000000002",
+              "gameVersion": "1.21.2",
+              "gameVersionReleaseDate": "2024-10-22T00:00:00Z",
+              "gameVersionName": "1.21.2"
+            }
+          ],
+          "gameVersions": [
+            "1.19.3",
+            "1.20.2",
+            "1.21.2-Snapshot",
+            "1.21",
+            "1.18.1",
+            "1.19.4-Snapshot",
+            "1.20.5",
+            "1.20.2-Snapshot",
+            "1.20.5-Snapshot",
+            "1.19.4",
+            "Fabric",
+            "1.19-Snapshot",
+            "Client",
+            "1.21.1-Snapshot",
+            "1.21.4",
+            "1.21.5-Snapshot",
+            "1.18.2",
+            "1.19.2",
+            "1.20.3-Snapshot",
+            "1.20.3",
+            "1.20.1",
+            "1.20",
+            "1.20.6",
+            "1.19.1",
+            "1.20.4",
+            "1.21-Snapshot",
+            "1.21.3",
+            "1.20-Snapshot",
+            "1.21.1",
+            "1.18",
+            "1.18-Snapshot",
+            "Quilt",
+            "1.19",
+            "1.21.4-Snapshot",
+            "1.19.3-Snapshot",
+            "1.21.2"
+          ],
+          "fileFingerprint": 2301736158,
+          "modId": 1201803
+        },
         "modrinthProject": {
           "id": "5CTSrY8X",
           "slug": "gputape",
@@ -806,18 +1197,6 @@
           "summary": "Allows for entity sound variation using ETF / OptiFine format property rules. Also adds aditional sound related utility for ETF & EMF",
           "categories": [
             {
-              "name": "Utility & QoL",
-              "slug": "utility-qol",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
-              "dateModified": "2021-11-17T11:45:09.143Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 5191,
-              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
               "name": "Cosmetic",
               "slug": "cosmetic",
               "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
@@ -826,6 +1205,18 @@
               "isClass": false,
               "id": 424,
               "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
               "parentCategoryId": 6,
               "classId": 6
             },
@@ -1093,18 +1484,6 @@
           "summary": "All-in-one mod that improves performance, reduces memory usage, and fixes many bugs. Compatible with all your favorite performance mods!",
           "categories": [
             {
-              "name": "Server Utility",
-              "slug": "server-utility",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
-              "dateModified": "2014-05-08T17:44:55.057Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 435,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
               "name": "Performance",
               "slug": "performance",
               "url": "https://www.curseforge.com/minecraft/mc-mods/performance",
@@ -1113,6 +1492,18 @@
               "isClass": false,
               "id": 6814,
               "iconUrl": "https://media.forgecdn.net/avatars/933/987/638409849610531091.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Server Utility",
+              "slug": "server-utility",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+              "dateModified": "2014-05-08T17:44:55.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 435,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
               "parentCategoryId": 6,
               "classId": 6
             },
@@ -1134,9 +1525,9 @@
           "classId": 6,
           "slug": "modernfix",
           "isFeatured": false,
-          "dateModified": "2025-01-26T00:58:13.04Z",
+          "dateModified": "2025-02-08T16:59:45.74Z",
           "dateCreated": "2023-01-05T01:43:12.673Z",
-          "dateReleased": "2025-01-26T00:48:31.65Z",
+          "dateReleased": "2025-02-08T16:55:44Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/modernfix",
             "wikiUrl": "https://github.com/embeddedt/ModernFix/wiki/Summary-of-Patches",
@@ -1153,7 +1544,7 @@
           },
           "allowModDistribution": true,
           "screenshots": [],
-          "mainFileId": 6125147
+          "mainFileId": 6171686
         },
         "curseForgeFile": {
           "id": 6125146,
@@ -2552,7 +2943,7 @@
           "classId": 6,
           "slug": "sodium-shadowy-path-blocks",
           "isFeatured": false,
-          "dateModified": "2024-12-05T02:44:09.387Z",
+          "dateModified": "2025-02-26T01:21:13.763Z",
           "dateCreated": "2021-12-11T21:52:44.06Z",
           "dateReleased": "2024-12-05T02:39:43.12Z",
           "links": {
@@ -2825,7 +3216,7 @@
           "classId": 6,
           "slug": "sodium-options-api",
           "isFeatured": false,
-          "dateModified": "2025-01-18T20:54:49.003Z",
+          "dateModified": "2025-02-01T06:01:03.767Z",
           "dateCreated": "2024-09-15T17:02:23.767Z",
           "dateReleased": "2025-01-18T20:48:19.853Z",
           "links": {
@@ -3090,7 +3481,7 @@
           "classId": 6,
           "slug": "dynamiclights-reforged",
           "isFeatured": false,
-          "dateModified": "2025-01-02T01:28:41.093Z",
+          "dateModified": "2025-02-01T06:00:56.647Z",
           "dateCreated": "2021-12-02T03:36:35.27Z",
           "dateReleased": "2025-01-02T01:22:44.9Z",
           "links": {
@@ -3357,6 +3748,18 @@
               "classId": 6
             },
             {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
               "name": "Addons",
               "slug": "mc-addons",
               "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
@@ -3377,18 +3780,6 @@
               "isClass": false,
               "id": 5191,
               "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Cosmetic",
-              "slug": "cosmetic",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
-              "dateModified": "2014-05-08T17:42:35.597Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 424,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
               "parentCategoryId": 6,
               "classId": 6
             }
@@ -3629,18 +4020,6 @@
           "summary": "An add-on mod for Sodium (and Embeddium) that adds new features and customization.",
           "categories": [
             {
-              "name": "Cosmetic",
-              "slug": "cosmetic",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
-              "dateModified": "2014-05-08T17:42:35.597Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 424,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
               "name": "Performance",
               "slug": "performance",
               "url": "https://www.curseforge.com/minecraft/mc-mods/performance",
@@ -3663,6 +4042,18 @@
               "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
               "parentCategoryId": 6,
               "classId": 6
+            },
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
             }
           ],
           "status": 4,
@@ -3670,7 +4061,7 @@
           "classId": 6,
           "slug": "magnesium-extras",
           "isFeatured": false,
-          "dateModified": "2025-01-01T04:43:55.497Z",
+          "dateModified": "2025-02-01T06:00:50.047Z",
           "dateCreated": "2021-12-21T00:57:44.497Z",
           "dateReleased": "2025-01-01T04:39:15.727Z",
           "links": {
@@ -4470,18 +4861,6 @@
           "summary": "Adds compatibility for various mods through Sodium Options API",
           "categories": [
             {
-              "name": "Performance",
-              "slug": "performance",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/performance",
-              "dateModified": "2024-01-16T06:56:01.057Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 6814,
-              "iconUrl": "https://media.forgecdn.net/avatars/933/987/638409849610531091.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
               "name": "Addons",
               "slug": "mc-addons",
               "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
@@ -4490,6 +4869,18 @@
               "isClass": false,
               "id": 426,
               "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Performance",
+              "slug": "performance",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/performance",
+              "dateModified": "2024-01-16T06:56:01.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 6814,
+              "iconUrl": "https://media.forgecdn.net/avatars/933/987/638409849610531091.png",
               "parentCategoryId": 6,
               "classId": 6
             },
@@ -4523,7 +4914,7 @@
           "classId": 6,
           "slug": "sodium-embeddium-options-mod-compat",
           "isFeatured": false,
-          "dateModified": "2025-01-01T03:59:41.21Z",
+          "dateModified": "2025-02-01T06:02:10.057Z",
           "dateCreated": "2024-11-23T20:54:12.207Z",
           "dateReleased": "2025-01-01T03:52:53.547Z",
           "links": {
@@ -4746,18 +5137,6 @@
           "summary": "Searchables is a library mod that adds helper methods that allow for searching and filtering elements based on components, as well as offering built in auto-complete functionality.",
           "categories": [
             {
-              "name": "API and Library",
-              "slug": "library-api",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
-              "dateModified": "2014-05-23T03:21:44.06Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 421,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
               "name": "Utility & QoL",
               "slug": "utility-qol",
               "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
@@ -4766,18 +5145,6 @@
               "isClass": false,
               "id": 5191,
               "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Cosmetic",
-              "slug": "cosmetic",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
-              "dateModified": "2014-05-08T17:42:35.597Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 424,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
               "parentCategoryId": 6,
               "classId": 6
             },
@@ -4792,6 +5159,30 @@
               "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
               "parentCategoryId": 6,
               "classId": 6
+            },
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
             }
           ],
           "status": 4,
@@ -4799,9 +5190,9 @@
           "classId": 6,
           "slug": "searchables",
           "isFeatured": false,
-          "dateModified": "2024-12-23T10:01:38.25Z",
+          "dateModified": "2025-02-01T20:29:30.06Z",
           "dateCreated": "2023-05-05T22:42:09.493Z",
-          "dateReleased": "2024-12-23T09:55:47.943Z",
+          "dateReleased": "2025-02-01T20:22:36.547Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/searchables",
             "wikiUrl": "",
@@ -4818,7 +5209,7 @@
           },
           "allowModDistribution": true,
           "screenshots": [],
-          "mainFileId": 6015958
+          "mainFileId": 6147302
         },
         "curseForgeFile": {
           "id": 5831690,
@@ -5001,18 +5392,6 @@
           "summary": "Automatic in-game configuration menus for every mod!",
           "categories": [
             {
-              "name": "Server Utility",
-              "slug": "server-utility",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
-              "dateModified": "2014-05-08T17:44:55.057Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 435,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
               "name": "Utility & QoL",
               "slug": "utility-qol",
               "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
@@ -5033,6 +5412,18 @@
               "isClass": false,
               "id": 421,
               "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Server Utility",
+              "slug": "server-utility",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+              "dateModified": "2014-05-08T17:44:55.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 435,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
               "parentCategoryId": 6,
               "classId": 6
             }
@@ -5838,9 +6229,9 @@
           "classId": 6,
           "slug": "modmenu",
           "isFeatured": false,
-          "dateModified": "2025-01-24T23:57:18.36Z",
+          "dateModified": "2025-02-12T02:13:47.05Z",
           "dateCreated": "2018-12-09T23:28:50.327Z",
-          "dateReleased": "2025-01-21T21:02:06.3Z",
+          "dateReleased": "2025-02-12T02:07:24.137Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/modmenu",
             "wikiUrl": "https://github.com/terraformersmc/modmenu?tab=readme-ov-file#developers",
@@ -5857,7 +6248,7 @@
           },
           "allowModDistribution": true,
           "screenshots": [],
-          "mainFileId": 6111161
+          "mainFileId": 6183599
         },
         "curseForgeFile": {
           "id": 5810603,
@@ -6349,9 +6740,9 @@
           "classId": 6,
           "slug": "architectury-api",
           "isFeatured": false,
-          "dateModified": "2024-12-03T18:35:19.917Z",
+          "dateModified": "2025-02-18T14:56:14.843Z",
           "dateCreated": "2020-11-13T16:18:57.733Z",
-          "dateReleased": "2024-12-03T18:31:16.383Z",
+          "dateReleased": "2025-02-18T14:53:22.157Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/architectury-api",
             "wikiUrl": "https://docs.architectury.dev/plugin:get_started",
@@ -6368,7 +6759,7 @@
           },
           "allowModDistribution": true,
           "screenshots": [],
-          "mainFileId": 5959950
+          "mainFileId": 6206631
         },
         "curseForgeFile": {
           "id": 5786326,
@@ -6598,9 +6989,9 @@
           "classId": 6,
           "slug": "indium",
           "isFeatured": false,
-          "dateModified": "2024-08-15T17:28:39.33Z",
+          "dateModified": "2025-02-25T22:54:08.807Z",
           "dateCreated": "2021-03-19T04:07:54.103Z",
-          "dateReleased": "2024-08-15T17:24:26.51Z",
+          "dateReleased": "2025-02-25T22:48:50.77Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/indium",
             "wikiUrl": "",
@@ -6617,7 +7008,7 @@
           },
           "allowModDistribution": true,
           "screenshots": [],
-          "mainFileId": 5632454
+          "mainFileId": 6237037
         },
         "curseForgeFile": {
           "id": 5632454,
@@ -7250,18 +7641,6 @@
               "classId": 6
             },
             {
-              "name": "Mobs",
-              "slug": "world-mobs",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-mobs",
-              "dateModified": "2014-05-08T17:46:59.507Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 411,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/53/635351500195070414.png",
-              "parentCategoryId": 406,
-              "classId": 6
-            },
-            {
               "name": "Cosmetic",
               "slug": "cosmetic",
               "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
@@ -7271,6 +7650,18 @@
               "id": 424,
               "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
               "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Mobs",
+              "slug": "world-mobs",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-mobs",
+              "dateModified": "2014-05-08T17:46:59.507Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 411,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/53/635351500195070414.png",
+              "parentCategoryId": 406,
               "classId": 6
             }
           ],
@@ -8118,14 +8509,14 @@
           "summary": "Makes chat unreportable (where possible)",
           "categories": [
             {
-              "name": "Server Utility",
-              "slug": "server-utility",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
-              "dateModified": "2014-05-08T17:44:55.057Z",
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
               "gameId": 432,
               "isClass": false,
-              "id": 435,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
               "parentCategoryId": 6,
               "classId": 6
             },
@@ -8142,14 +8533,14 @@
               "classId": 6
             },
             {
-              "name": "Cosmetic",
-              "slug": "cosmetic",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
-              "dateModified": "2014-05-08T17:42:35.597Z",
+              "name": "Server Utility",
+              "slug": "server-utility",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+              "dateModified": "2014-05-08T17:44:55.057Z",
               "gameId": 432,
               "isClass": false,
-              "id": 424,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "id": 435,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
               "parentCategoryId": 6,
               "classId": 6
             }
@@ -8465,18 +8856,6 @@
           "summary": "A zoom mod with infinite customizability.",
           "categories": [
             {
-              "name": "Utility & QoL",
-              "slug": "utility-qol",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
-              "dateModified": "2021-11-17T11:45:09.143Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 5191,
-              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
               "name": "Cosmetic",
               "slug": "cosmetic",
               "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
@@ -8485,6 +8864,18 @@
               "isClass": false,
               "id": 424,
               "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
               "parentCategoryId": 6,
               "classId": 6
             }
@@ -8746,7 +9137,7 @@
           "classId": 6,
           "slug": "jei",
           "isFeatured": false,
-          "dateModified": "2025-01-11T01:40:21.557Z",
+          "dateModified": "2025-02-08T09:12:23.297Z",
           "dateCreated": "2015-11-23T22:55:58.84Z",
           "dateReleased": "2025-01-11T01:35:54.057Z",
           "links": {
@@ -8798,7 +9189,7 @@
               "modId": 238222
             }
           ],
-          "mainFileId": 5626488
+          "mainFileId": 5846880
         },
         "curseForgeFile": {
           "id": 5846878,
@@ -9032,18 +9423,6 @@
           "summary": "EMI Plugin that gives basic enchantment information; valid items, exlcusions, etc.",
           "categories": [
             {
-              "name": "API and Library",
-              "slug": "library-api",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
-              "dateModified": "2014-05-23T03:21:44.06Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 421,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
               "name": "Map and Information",
               "slug": "map-information",
               "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
@@ -9052,6 +9431,18 @@
               "isClass": false,
               "id": 423,
               "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
               "parentCategoryId": 6,
               "classId": 6
             }
@@ -9261,18 +9652,6 @@
           "summary": "Easily view ore generation information from inside EMI.",
           "categories": [
             {
-              "name": "Ores and Resources",
-              "slug": "world-ores-resources",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-ores-resources",
-              "dateModified": "2014-05-08T17:36:41.233Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 408,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/23/635351494012336510.png",
-              "parentCategoryId": 406,
-              "classId": 6
-            },
-            {
               "name": "Utility & QoL",
               "slug": "utility-qol",
               "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
@@ -9282,6 +9661,18 @@
               "id": 5191,
               "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
               "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Ores and Resources",
+              "slug": "world-ores-resources",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-ores-resources",
+              "dateModified": "2014-05-08T17:36:41.233Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 408,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/23/635351494012336510.png",
+              "parentCategoryId": 406,
               "classId": 6
             },
             {
@@ -9537,18 +9928,6 @@
           "summary": "Enhances inventory management by adding various functions to the mouse buttons.",
           "categories": [
             {
-              "name": "Storage",
-              "slug": "storage",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/storage",
-              "dateModified": "2014-05-08T17:41:17.203Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 420,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/35/635351496772023801.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
               "name": "Utility & QoL",
               "slug": "utility-qol",
               "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
@@ -9569,6 +9948,18 @@
               "isClass": false,
               "id": 425,
               "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Storage",
+              "slug": "storage",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/storage",
+              "dateModified": "2014-05-08T17:41:17.203Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 420,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/35/635351496772023801.png",
               "parentCategoryId": 6,
               "classId": 6
             }
@@ -9821,18 +10212,6 @@
           "summary": "Adds a search bar to the Key-Bindings menu",
           "categories": [
             {
-              "name": "Utility & QoL",
-              "slug": "utility-qol",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
-              "dateModified": "2021-11-17T11:45:09.143Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 5191,
-              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
               "name": "Cosmetic",
               "slug": "cosmetic",
               "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
@@ -9843,6 +10222,18 @@
               "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
               "parentCategoryId": 6,
               "classId": 6
+            },
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
             }
           ],
           "status": 4,
@@ -9850,9 +10241,9 @@
           "classId": 6,
           "slug": "controlling",
           "isFeatured": false,
-          "dateModified": "2025-01-14T05:33:33.17Z",
+          "dateModified": "2025-02-01T20:30:11.17Z",
           "dateCreated": "2016-08-28T21:07:16.39Z",
-          "dateReleased": "2025-01-14T05:27:36.977Z",
+          "dateReleased": "2025-02-01T20:25:07.65Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/controlling",
             "wikiUrl": "",
@@ -9869,7 +10260,7 @@
           },
           "allowModDistribution": true,
           "screenshots": [],
-          "mainFileId": 6085646
+          "mainFileId": 6147315
         },
         "curseForgeFile": {
           "id": 6085644,
@@ -10561,6 +10952,30 @@
           "summary": "Adds in-game descriptions for enchantments to tooltips.",
           "categories": [
             {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Magic",
+              "slug": "magic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/magic",
+              "dateModified": "2014-05-08T17:40:24.787Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 419,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/34/635351496247862494.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
               "name": "Utility & QoL",
               "slug": "utility-qol",
               "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
@@ -10597,6 +11012,18 @@
               "classId": 6
             },
             {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
               "name": "Map and Information",
               "slug": "map-information",
               "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
@@ -10614,9 +11041,9 @@
           "classId": 6,
           "slug": "enchantment-descriptions",
           "isFeatured": false,
-          "dateModified": "2024-10-28T22:35:44.747Z",
+          "dateModified": "2025-02-22T02:26:37.553Z",
           "dateCreated": "2016-08-29T06:00:23.24Z",
-          "dateReleased": "2024-10-28T22:30:06.733Z",
+          "dateReleased": "2025-02-22T02:21:01.137Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions",
             "wikiUrl": "https://docs.darkhax.net/mods/enchantment-descriptions?curseforge",
@@ -10666,7 +11093,7 @@
               "modId": 250419
             }
           ],
-          "mainFileId": 5855251
+          "mainFileId": 6219630
         },
         "curseForgeFile": {
           "id": 5824114,
@@ -10888,184 +11315,6 @@
         }
       },
       {
-        "name": "Cupboard",
-        "version": "cupboard-fabric-1.21-2.9.jar",
-        "optional": true,
-        "file": "cupboard-fabric-1.21-2.9.jar",
-        "type": "mods",
-        "description": "Cupboard provides code, frameworks, and utilities for minecraft mods",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 326652,
-        "curseForgeFileId": 6114706,
-        "curseForgeProject": {
-          "id": 326652,
-          "name": "Cupboard",
-          "authors": [
-            {
-              "id": 100114338,
-              "name": "someaddon",
-              "url": "https://www.curseforge.com/members/someaddon"
-            }
-          ],
-          "gameId": 432,
-          "summary": "Cupboard provides code, frameworks, and utilities for minecraft mods",
-          "categories": [
-            {
-              "name": "Utility & QoL",
-              "slug": "utility-qol",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
-              "dateModified": "2021-11-17T11:45:09.143Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 5191,
-              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 5191,
-          "classId": 6,
-          "slug": "cupboard",
-          "isFeatured": false,
-          "dateModified": "2025-01-22T22:16:21.637Z",
-          "dateCreated": "2019-07-08T10:31:04.037Z",
-          "dateReleased": "2025-01-22T22:10:26.347Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/cupboard",
-            "wikiUrl": "",
-            "issuesUrl": "https://github.com/someaddons/cupboard/issues",
-            "sourceUrl": "https://github.com/someaddons/cupboard"
-          },
-          "logo": {
-            "id": 852567,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/852/567/256/256/638255508280634753.png",
-            "title": "638255508280634753.png",
-            "url": "https://media.forgecdn.net/avatars/852/567/638255508280634753.png",
-            "modId": 326652
-          },
-          "allowModDistribution": true,
-          "screenshots": [],
-          "mainFileId": 6114706
-        },
-        "curseForgeFile": {
-          "id": 6114706,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "cupboard-fabric-1.21-2.9.jar",
-          "fileName": "cupboard-fabric-1.21-2.9.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2025-01-22T22:10:26.347Z",
-          "fileLength": 23781,
-          "dependencies": [],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 2617075874,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 257049114,
-              "name": "com"
-            },
-            {
-              "fingerprint": 3977222356,
-              "name": "cupboard-fabric-refmap.json"
-            },
-            {
-              "fingerprint": 3941206721,
-              "name": "cupboard.accessWidener"
-            },
-            {
-              "fingerprint": 3858445823,
-              "name": "cupboard.mixins.json"
-            },
-            {
-              "fingerprint": 2912006958,
-              "name": "fabric.mod.json"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "99810a3d86fe30dc0828b7d0aaf2bee592ca6642",
-              "algo": 1
-            },
-            {
-              "value": "a94bfab1f1eff3cc9e7493f3aa8d2dbb",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0000000001.0000000021",
-              "gameVersion": "1.21",
-              "gameVersionReleaseDate": "2024-06-14T00:00:00Z",
-              "gameVersionName": "1.21"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
-              "gameVersionName": "Fabric"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
-              "gameVersionName": "Client"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000021.0000000004",
-              "gameVersion": "1.21.4",
-              "gameVersionReleaseDate": "2024-12-03T16:26:15.35Z",
-              "gameVersionName": "1.21.4"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000021.0000000003",
-              "gameVersion": "1.21.3",
-              "gameVersionReleaseDate": "2024-10-23T13:16:45.71Z",
-              "gameVersionName": "1.21.3"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000021.0000000001",
-              "gameVersion": "1.21.1",
-              "gameVersionReleaseDate": "2024-08-08T15:17:53.787Z",
-              "gameVersionName": "1.21.1"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
-              "gameVersionName": "Server"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000021.0000000002",
-              "gameVersion": "1.21.2",
-              "gameVersionReleaseDate": "2024-10-22T00:00:00Z",
-              "gameVersionName": "1.21.2"
-            }
-          ],
-          "gameVersions": [
-            "1.21",
-            "Fabric",
-            "Client",
-            "1.21.4",
-            "1.21.3",
-            "1.21.1",
-            "Server",
-            "1.21.2"
-          ],
-          "fileFingerprint": 3115473585,
-          "modId": 326652
-        }
-      },
-      {
         "name": "Better Advancements",
         "version": "BetterAdvancements-Fabric-1.21.1-0.4.3.21.jar",
         "optional": true,
@@ -11109,9 +11358,9 @@
           "classId": 6,
           "slug": "better-advancements",
           "isFeatured": false,
-          "dateModified": "2024-12-21T12:31:50.703Z",
+          "dateModified": "2025-02-27T19:13:53.157Z",
           "dateCreated": "2017-07-19T23:16:12.303Z",
-          "dateReleased": "2024-12-21T12:22:12.19Z",
+          "dateReleased": "2025-02-27T19:06:17.773Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/better-advancements",
             "issuesUrl": "https://github.com/way2muchnoise/BetterAdvancements/issues",
@@ -11585,6 +11834,18 @@
           "summary": "Fixes small gaps in item and block models",
           "categories": [
             {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
               "name": "Cosmetic",
               "slug": "cosmetic",
               "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
@@ -11605,18 +11866,6 @@
               "isClass": false,
               "id": 5191,
               "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "API and Library",
-              "slug": "library-api",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
-              "dateModified": "2014-05-23T03:21:44.06Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 421,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
               "parentCategoryId": 6,
               "classId": 6
             }
@@ -12363,6 +12612,18 @@
           "summary": "A Minecraft mod that improves the statistics screen and makes it more useful.",
           "categories": [
             {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
               "name": "API and Library",
               "slug": "library-api",
               "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
@@ -12383,18 +12644,6 @@
               "isClass": false,
               "id": 5191,
               "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Cosmetic",
-              "slug": "cosmetic",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
-              "dateModified": "2014-05-08T17:42:35.597Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 424,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
               "parentCategoryId": 6,
               "classId": 6
             }
@@ -12480,11 +12729,19 @@
               "modId": 667464
             },
             {
-              "id": 802061,
+              "id": 802063,
               "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/802/61/310/172/2024-02-04_11.png",
-              "title": "(v3.X) Mobs tab 1",
-              "url": "https://media.forgecdn.net/attachments/802/61/2024-02-04_11.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/802/63/310/172/2024-02-04_11.png",
+              "title": "(v3.X) A balanced diet tab",
+              "url": "https://media.forgecdn.net/attachments/802/63/2024-02-04_11.png",
+              "modId": 667464
+            },
+            {
+              "id": 802064,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/802/64/310/172/2024-02-04_11.png",
+              "title": "(v3.X) Monsters hunted tab",
+              "url": "https://media.forgecdn.net/attachments/802/64/2024-02-04_11.png",
               "modId": 667464
             },
             {
@@ -12504,27 +12761,19 @@
               "modId": 667464
             },
             {
+              "id": 802061,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/802/61/310/172/2024-02-04_11.png",
+              "title": "(v3.X) Mobs tab 1",
+              "url": "https://media.forgecdn.net/attachments/802/61/2024-02-04_11.png",
+              "modId": 667464
+            },
+            {
               "id": 802057,
               "description": "",
               "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/802/57/310/172/2024-02-04_11.png",
               "title": "(v3.X) General tab",
               "url": "https://media.forgecdn.net/attachments/802/57/2024-02-04_11.png",
-              "modId": 667464
-            },
-            {
-              "id": 802063,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/802/63/310/172/2024-02-04_11.png",
-              "title": "(v3.X) A balanced diet tab",
-              "url": "https://media.forgecdn.net/attachments/802/63/2024-02-04_11.png",
-              "modId": 667464
-            },
-            {
-              "id": 802064,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/802/64/310/172/2024-02-04_11.png",
-              "title": "(v3.X) Monsters hunted tab",
-              "url": "https://media.forgecdn.net/attachments/802/64/2024-02-04_11.png",
               "modId": 667464
             }
           ],
@@ -12881,18 +13130,6 @@
           "summary": "Makes resource packs load in the background, allowing you to do other things while waiting!",
           "categories": [
             {
-              "name": "Miscellaneous",
-              "slug": "mc-miscellaneous",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
-              "dateModified": "2014-06-15T04:27:14.543Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 425,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
               "name": "Utility & QoL",
               "slug": "utility-qol",
               "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
@@ -12915,6 +13152,18 @@
               "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
               "parentCategoryId": 6,
               "classId": 6
+            },
+            {
+              "name": "Miscellaneous",
+              "slug": "mc-miscellaneous",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
+              "dateModified": "2014-06-15T04:27:14.543Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 425,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
+              "parentCategoryId": 6,
+              "classId": 6
             }
           ],
           "status": 4,
@@ -12922,9 +13171,9 @@
           "classId": 6,
           "slug": "rrls",
           "isFeatured": false,
-          "dateModified": "2025-01-01T17:01:07.377Z",
+          "dateModified": "2025-02-15T08:28:43.107Z",
           "dateCreated": "2023-03-02T19:17:05.823Z",
-          "dateReleased": "2025-01-01T16:58:15.533Z",
+          "dateReleased": "2025-02-15T08:23:22.31Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/rrls",
             "wikiUrl": "",
@@ -12932,11 +13181,11 @@
             "sourceUrl": "https://github.com/dima-dencep/rrls"
           },
           "logo": {
-            "id": 1150355,
+            "id": 1179051,
             "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/1150/355/256/256/638717847495007004.png",
-            "title": "638717847495007004.png",
-            "url": "https://media.forgecdn.net/avatars/1150/355/638717847495007004.png",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/1179/51/256/256/638752022519805362.png",
+            "title": "638752022519805362.png",
+            "url": "https://media.forgecdn.net/avatars/1179/51/638752022519805362.png",
             "modId": 833233
           },
           "allowModDistribution": true,
@@ -13594,11 +13843,18 @@
               "gameVersion": "",
               "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
               "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021.0000000001",
+              "gameVersion": "1.21.1",
+              "gameVersionReleaseDate": "2024-08-08T15:17:53.787Z",
+              "gameVersionName": "1.21.1"
             }
           ],
           "gameVersions": [
             "1.21",
-            "Fabric"
+            "Fabric",
+            "1.21.1"
           ],
           "fileFingerprint": 745693276,
           "modId": 318449
@@ -13955,9 +14211,9 @@
           "classId": 6,
           "slug": "easy-magic",
           "isFeatured": false,
-          "dateModified": "2024-12-28T22:05:10.34Z",
+          "dateModified": "2025-02-05T20:10:33.48Z",
           "dateCreated": "2021-03-12T22:32:20.69Z",
-          "dateReleased": "2024-12-28T21:53:15.577Z",
+          "dateReleased": "2025-02-05T20:04:48.803Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/easy-magic",
             "wikiUrl": "",
@@ -14023,7 +14279,7 @@
               "modId": 456239
             }
           ],
-          "mainFileId": 6031461
+          "mainFileId": 6161754
         },
         "curseForgeFile": {
           "id": 5733852,
@@ -14264,18 +14520,6 @@
           "summary": "Be ready for overhauled anvils! Items stay, better name tags, many tweaks!",
           "categories": [
             {
-              "name": "Utility & QoL",
-              "slug": "utility-qol",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
-              "dateModified": "2021-11-17T11:45:09.143Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 5191,
-              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
               "name": "Cosmetic",
               "slug": "cosmetic",
               "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
@@ -14286,6 +14530,18 @@
               "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
               "parentCategoryId": 6,
               "classId": 6
+            },
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
             }
           ],
           "status": 4,
@@ -14293,9 +14549,9 @@
           "classId": 6,
           "slug": "easy-anvils",
           "isFeatured": false,
-          "dateModified": "2025-01-16T13:27:39.493Z",
+          "dateModified": "2025-02-05T20:11:09.033Z",
           "dateCreated": "2022-09-29T08:29:55.413Z",
-          "dateReleased": "2025-01-16T13:24:42.493Z",
+          "dateReleased": "2025-02-05T20:05:17.24Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/easy-anvils",
             "wikiUrl": "",
@@ -14361,7 +14617,7 @@
               "modId": 682567
             }
           ],
-          "mainFileId": 6092998
+          "mainFileId": 6161757
         },
         "curseForgeFile": {
           "id": 5733954,
@@ -14603,18 +14859,6 @@
           "summary": "Supercharge shulkes boxes, bundles and backpacks! Fully useable in your inventory with many intuitive interactions.",
           "categories": [
             {
-              "name": "Storage",
-              "slug": "storage",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/storage",
-              "dateModified": "2014-05-08T17:41:17.203Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 420,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/35/635351496772023801.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
               "name": "Utility & QoL",
               "slug": "utility-qol",
               "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
@@ -14625,6 +14869,18 @@
               "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
               "parentCategoryId": 6,
               "classId": 6
+            },
+            {
+              "name": "Storage",
+              "slug": "storage",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/storage",
+              "dateModified": "2014-05-08T17:41:17.203Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 420,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/35/635351496772023801.png",
+              "parentCategoryId": 6,
+              "classId": 6
             }
           ],
           "status": 4,
@@ -14632,9 +14888,9 @@
           "classId": 6,
           "slug": "easy-shulker-boxes",
           "isFeatured": false,
-          "dateModified": "2024-12-28T12:10:37.523Z",
+          "dateModified": "2025-02-05T10:21:00.213Z",
           "dateCreated": "2022-03-15T00:39:13.117Z",
-          "dateReleased": "2024-12-28T12:04:39.427Z",
+          "dateReleased": "2025-02-05T10:14:39.123Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/easy-shulker-boxes",
             "wikiUrl": "",
@@ -14668,7 +14924,7 @@
               "modId": 594006
             }
           ],
-          "mainFileId": 6029957
+          "mainFileId": 6160088
         },
         "curseForgeFile": {
           "id": 5743828,
@@ -14902,18 +15158,6 @@
           "summary": "Be notified about all the things you've just collected.",
           "categories": [
             {
-              "name": "Map and Information",
-              "slug": "map-information",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
-              "dateModified": "2014-05-08T17:42:23.74Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 423,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
               "name": "Utility & QoL",
               "slug": "utility-qol",
               "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
@@ -14924,6 +15168,18 @@
               "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
               "parentCategoryId": 6,
               "classId": 6
+            },
+            {
+              "name": "Map and Information",
+              "slug": "map-information",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
+              "dateModified": "2014-05-08T17:42:23.74Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 423,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
+              "parentCategoryId": 6,
+              "classId": 6
             }
           ],
           "status": 4,
@@ -14931,9 +15187,9 @@
           "classId": 6,
           "slug": "pick-up-notifier",
           "isFeatured": false,
-          "dateModified": "2024-11-24T00:37:31.277Z",
+          "dateModified": "2025-02-04T14:25:36.463Z",
           "dateCreated": "2019-11-13T22:27:20.4Z",
-          "dateReleased": "2024-11-24T00:33:06.313Z",
+          "dateReleased": "2025-02-04T14:22:36.32Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/pick-up-notifier",
             "wikiUrl": "",
@@ -14991,7 +15247,7 @@
               "modId": 351441
             }
           ],
-          "mainFileId": 5932280
+          "mainFileId": 6157374
         },
         "curseForgeFile": {
           "id": 5711433,
@@ -15476,18 +15732,6 @@
           "summary": "Expand health, armor and armor toughness bars beyond vanilla. Nice and compact without confusing colors.",
           "categories": [
             {
-              "name": "Utility & QoL",
-              "slug": "utility-qol",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
-              "dateModified": "2021-11-17T11:45:09.143Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 5191,
-              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
               "name": "Cosmetic",
               "slug": "cosmetic",
               "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
@@ -15498,6 +15742,18 @@
               "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
               "parentCategoryId": 6,
               "classId": 6
+            },
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
             }
           ],
           "status": 4,
@@ -15505,9 +15761,9 @@
           "classId": 6,
           "slug": "overflowing-bars",
           "isFeatured": false,
-          "dateModified": "2024-11-19T16:03:34.263Z",
+          "dateModified": "2025-02-05T14:56:50.093Z",
           "dateCreated": "2023-04-20T10:46:33.31Z",
-          "dateReleased": "2024-11-19T16:00:11.997Z",
+          "dateReleased": "2025-02-05T14:43:50.233Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/overflowing-bars",
             "wikiUrl": "",
@@ -15524,7 +15780,7 @@
           },
           "allowModDistribution": true,
           "screenshots": [],
-          "mainFileId": 5919803
+          "mainFileId": 6160703
         },
         "curseForgeFile": {
           "id": 5770622,
@@ -16040,9 +16296,9 @@
           "classId": 6,
           "slug": "distinguished-potions",
           "isFeatured": false,
-          "dateModified": "2024-12-26T23:57:31.463Z",
+          "dateModified": "2025-02-10T09:41:25.387Z",
           "dateCreated": "2022-09-29T08:29:50.357Z",
-          "dateReleased": "2024-12-26T23:52:44.15Z",
+          "dateReleased": "2025-02-10T09:36:40.247Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/distinguished-potions",
             "wikiUrl": "",
@@ -16092,7 +16348,7 @@
               "modId": 682565
             }
           ],
-          "mainFileId": 6026000
+          "mainFileId": 6177709
         },
         "curseForgeFile": {
           "id": 6025980,
@@ -16346,9 +16602,9 @@
           "classId": 6,
           "slug": "armor-statues",
           "isFeatured": false,
-          "dateModified": "2024-12-22T17:18:36.883Z",
+          "dateModified": "2025-02-05T08:52:07.67Z",
           "dateCreated": "2022-09-29T08:29:52.577Z",
-          "dateReleased": "2024-12-22T17:13:51.18Z",
+          "dateReleased": "2025-02-05T08:46:58.063Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/armor-statues",
             "wikiUrl": "",
@@ -16422,7 +16678,7 @@
               "modId": 682566
             }
           ],
-          "mainFileId": 6013831
+          "mainFileId": 6159927
         },
         "curseForgeFile": {
           "id": 5732768,
@@ -16685,9 +16941,9 @@
           "classId": 6,
           "slug": "new-paper-doll",
           "isFeatured": false,
-          "dateModified": "2024-12-06T10:16:12.52Z",
+          "dateModified": "2025-02-07T15:47:15.817Z",
           "dateCreated": "2023-05-04T13:06:45.637Z",
-          "dateReleased": "2024-12-06T10:12:27.857Z",
+          "dateReleased": "2025-02-07T15:42:49.963Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/new-paper-doll",
             "wikiUrl": "",
@@ -16704,7 +16960,7 @@
           },
           "allowModDistribution": true,
           "screenshots": [],
-          "mainFileId": 5967569
+          "mainFileId": 6167859
         },
         "curseForgeFile": {
           "id": 5715975,
@@ -16950,9 +17206,9 @@
           "classId": 6,
           "slug": "held-item-tooltips",
           "isFeatured": false,
-          "dateModified": "2024-12-06T10:15:16.037Z",
+          "dateModified": "2025-02-07T15:47:15.553Z",
           "dateCreated": "2023-04-20T10:46:57.117Z",
-          "dateReleased": "2024-12-06T10:09:19.8Z",
+          "dateReleased": "2025-02-07T15:44:19.05Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/held-item-tooltips",
             "wikiUrl": "",
@@ -16969,7 +17225,7 @@
           },
           "allowModDistribution": true,
           "screenshots": [],
-          "mainFileId": 5967556
+          "mainFileId": 6167866
         },
         "curseForgeFile": {
           "id": 5716159,
@@ -17219,9 +17475,9 @@
           "classId": 6,
           "slug": "pro-placer",
           "isFeatured": false,
-          "dateModified": "2024-11-19T20:56:16.76Z",
+          "dateModified": "2025-02-04T14:25:37.28Z",
           "dateCreated": "2020-03-19T09:39:39.153Z",
-          "dateReleased": "2024-11-19T20:52:05.64Z",
+          "dateReleased": "2025-02-04T14:21:16.383Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/pro-placer",
             "wikiUrl": "",
@@ -17238,7 +17494,7 @@
           },
           "allowModDistribution": true,
           "screenshots": [],
-          "mainFileId": 5920504
+          "mainFileId": 6157371
         },
         "curseForgeFile": {
           "id": 5733817,
@@ -17498,9 +17754,9 @@
           "classId": 6,
           "slug": "cut-through",
           "isFeatured": false,
-          "dateModified": "2024-11-24T11:13:31.93Z",
+          "dateModified": "2025-02-05T15:10:42.397Z",
           "dateCreated": "2024-02-01T12:54:05.26Z",
-          "dateReleased": "2024-11-24T11:10:01.977Z",
+          "dateReleased": "2025-02-05T15:05:56.5Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/cut-through",
             "issuesUrl": "https://github.com/Fuzss/cutthrough/issues",
@@ -17516,7 +17772,7 @@
           },
           "allowModDistribution": true,
           "screenshots": [],
-          "mainFileId": 5933298
+          "mainFileId": 6160768
         },
         "curseForgeFile": {
           "id": 5731911,
@@ -17767,9 +18023,9 @@
           "classId": 6,
           "slug": "stoneworks",
           "isFeatured": false,
-          "dateModified": "2024-11-26T00:44:37.583Z",
+          "dateModified": "2025-02-05T16:49:27.083Z",
           "dateCreated": "2023-04-20T10:46:36.967Z",
-          "dateReleased": "2024-11-26T00:41:03.847Z",
+          "dateReleased": "2025-02-05T16:44:38.087Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/stoneworks",
             "wikiUrl": "",
@@ -17786,7 +18042,7 @@
           },
           "allowModDistribution": true,
           "screenshots": [],
-          "mainFileId": 5937710
+          "mainFileId": 6161059
         },
         "curseForgeFile": {
           "id": 5731745,
@@ -18040,9 +18296,9 @@
           "classId": 6,
           "slug": "better-tridents",
           "isFeatured": false,
-          "dateModified": "2024-11-28T00:46:43.893Z",
+          "dateModified": "2025-02-05T22:07:57.427Z",
           "dateCreated": "2022-09-01T07:25:52.897Z",
-          "dateReleased": "2024-11-28T00:42:21.04Z",
+          "dateReleased": "2025-02-05T22:02:23.033Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/better-tridents",
             "wikiUrl": "",
@@ -18092,7 +18348,7 @@
               "modId": 666941
             }
           ],
-          "mainFileId": 5943122
+          "mainFileId": 6162104
         },
         "curseForgeFile": {
           "id": 5731827,
@@ -18350,9 +18606,9 @@
           "classId": 6,
           "slug": "leave-my-bars-alone",
           "isFeatured": false,
-          "dateModified": "2024-11-26T23:39:40.193Z",
+          "dateModified": "2025-02-05T15:14:08.047Z",
           "dateCreated": "2017-11-12T00:23:49.417Z",
-          "dateReleased": "2024-11-26T23:34:42.11Z",
+          "dateReleased": "2025-02-05T15:11:20.787Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/leave-my-bars-alone",
             "wikiUrl": "",
@@ -18402,7 +18658,7 @@
               "modId": 281715
             }
           ],
-          "mainFileId": 5940316
+          "mainFileId": 6160779
         },
         "curseForgeFile": {
           "id": 5770177,
@@ -18669,9 +18925,9 @@
           "classId": 6,
           "slug": "leaves-be-gone",
           "isFeatured": false,
-          "dateModified": "2025-01-11T22:36:39.083Z",
+          "dateModified": "2025-02-04T15:15:27.707Z",
           "dateCreated": "2022-10-06T10:08:43.89Z",
-          "dateReleased": "2025-01-11T22:28:43.05Z",
+          "dateReleased": "2025-02-04T14:48:59.897Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/leaves-be-gone",
             "wikiUrl": "",
@@ -18705,7 +18961,7 @@
               "modId": 686435
             }
           ],
-          "mainFileId": 6078262
+          "mainFileId": 6157465
         },
         "curseForgeFile": {
           "id": 5731932,
@@ -18955,7 +19211,7 @@
           "classId": 6,
           "slug": "txnilib",
           "isFeatured": false,
-          "dateModified": "2025-01-21T04:55:59.347Z",
+          "dateModified": "2025-02-01T06:01:36.87Z",
           "dateCreated": "2024-09-18T09:28:33.777Z",
           "dateReleased": "2025-01-21T04:46:43.437Z",
           "links": {
@@ -18964,11 +19220,11 @@
             "sourceUrl": "https://github.com/txnimc/TxniLib"
           },
           "logo": {
-            "id": 1082221,
+            "id": 1170525,
             "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/1082/221/256/256/638622485140548994.png",
-            "title": "638622485140548994.png",
-            "url": "https://media.forgecdn.net/avatars/1082/221/638622485140548994.png",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/1170/525/256/256/638741611474710951.png",
+            "title": "638741611474710951.png",
+            "url": "https://media.forgecdn.net/avatars/1170/525/638741611474710951.png",
             "modId": 1104882
           },
           "allowModDistribution": true,
@@ -19185,30 +19441,6 @@
               "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
               "parentCategoryId": 6,
               "classId": 6
-            },
-            {
-              "name": "Utility & QoL",
-              "slug": "utility-qol",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
-              "dateModified": "2021-11-17T11:45:09.143Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 5191,
-              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Cosmetic",
-              "slug": "cosmetic",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
-              "dateModified": "2014-05-08T17:42:35.597Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 424,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
-              "parentCategoryId": 6,
-              "classId": 6
             }
           ],
           "status": 4,
@@ -19216,9 +19448,9 @@
           "classId": 6,
           "slug": "horse-expert",
           "isFeatured": false,
-          "dateModified": "2025-01-06T23:06:07.957Z",
+          "dateModified": "2025-02-09T22:16:23.327Z",
           "dateCreated": "2022-09-01T07:25:56.847Z",
-          "dateReleased": "2025-01-06T23:02:29.437Z",
+          "dateReleased": "2025-02-09T22:10:02.25Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/horse-expert",
             "wikiUrl": "",
@@ -19268,7 +19500,7 @@
               "modId": 666942
             }
           ],
-          "mainFileId": 6060986
+          "mainFileId": 6176408
         },
         "curseForgeFile": {
           "id": 5731752,
@@ -19544,7 +19776,7 @@
           "classId": 6,
           "slug": "fzzy-config",
           "isFeatured": false,
-          "dateModified": "2025-02-01T02:07:34.863Z",
+          "dateModified": "2025-02-02T11:59:40.67Z",
           "dateCreated": "2024-04-19T17:07:07.463Z",
           "dateReleased": "2025-02-01T02:02:44.36Z",
           "links": {
@@ -19620,27 +19852,27 @@
               "modId": 1005914
             }
           ],
-          "mainFileId": 6121281
+          "mainFileId": 6144595
         },
         "curseForgeFile": {
           "id": 6144571,
           "gameId": 432,
-          "isAvailable": false,
+          "isAvailable": true,
           "displayName": "fzzy_config-0.6.4+1.21",
           "fileName": "fzzy_config-0.6.4+1.21.jar",
           "releaseType": 1,
-          "fileStatus": 18,
+          "fileStatus": 4,
           "fileDate": "2025-02-01T01:51:45.52Z",
           "fileLength": 1900644,
           "dependencies": [
             {
               "fileId": 0,
-              "modId": 306612,
+              "modId": 308769,
               "relationType": 3
             },
             {
               "fileId": 0,
-              "modId": 308769,
+              "modId": 306612,
               "relationType": 3
             }
           ],
@@ -20181,18 +20413,6 @@
           "summary": "Shows information about what you are looking at. (Hwyla/WAILA fork for Minecraft 1.16+)",
           "categories": [
             {
-              "name": "Utility & QoL",
-              "slug": "utility-qol",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
-              "dateModified": "2021-11-17T11:45:09.143Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 5191,
-              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
               "name": "Map and Information",
               "slug": "map-information",
               "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
@@ -20203,6 +20423,18 @@
               "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
               "parentCategoryId": 6,
               "classId": 6
+            },
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
             }
           ],
           "status": 4,
@@ -20210,9 +20442,9 @@
           "classId": 6,
           "slug": "jade",
           "isFeatured": false,
-          "dateModified": "2025-02-03T22:00:02.427Z",
+          "dateModified": "2025-02-16T09:10:45.837Z",
           "dateCreated": "2019-06-19T05:06:23.563Z",
-          "dateReleased": "2025-02-03T21:56:18.51Z",
+          "dateReleased": "2025-02-16T09:03:30.223Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/jade",
             "wikiUrl": "",
@@ -21562,18 +21794,6 @@
           "summary": "See who are you chatting with! Now for Forge too!",
           "categories": [
             {
-              "name": "Map and Information",
-              "slug": "map-information",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
-              "dateModified": "2014-05-08T17:42:23.74Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 423,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
               "name": "Cosmetic",
               "slug": "cosmetic",
               "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
@@ -21582,6 +21802,18 @@
               "isClass": false,
               "id": 424,
               "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Map and Information",
+              "slug": "map-information",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
+              "dateModified": "2014-05-08T17:42:23.74Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 423,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
               "parentCategoryId": 6,
               "classId": 6
             }
@@ -21871,14 +22103,14 @@
           "summary": "Authenticate yourself and re-validate your session",
           "categories": [
             {
-              "name": "Server Utility",
-              "slug": "server-utility",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
-              "dateModified": "2014-05-08T17:44:55.057Z",
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
               "gameId": 432,
               "isClass": false,
-              "id": 435,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
               "parentCategoryId": 6,
               "classId": 6
             },
@@ -21895,14 +22127,14 @@
               "classId": 6
             },
             {
-              "name": "Cosmetic",
-              "slug": "cosmetic",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
-              "dateModified": "2014-05-08T17:42:35.597Z",
+              "name": "Server Utility",
+              "slug": "server-utility",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+              "dateModified": "2014-05-08T17:44:55.057Z",
               "gameId": 432,
               "isClass": false,
-              "id": 424,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "id": 435,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
               "parentCategoryId": 6,
               "classId": 6
             }
@@ -22459,14 +22691,14 @@
           "summary": "A mod that changes how multiple types of culling are handled in order to improve performance",
           "categories": [
             {
-              "name": "Bug Fixes",
-              "slug": "bug-fixes",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/bug-fixes",
-              "dateModified": "2024-01-17T06:56:01.62Z",
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
               "gameId": 432,
               "isClass": false,
-              "id": 6821,
-              "iconUrl": "https://media.forgecdn.net/avatars/934/473/638410713616155958.png",
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
               "parentCategoryId": 6,
               "classId": 6
             },
@@ -22483,14 +22715,14 @@
               "classId": 6
             },
             {
-              "name": "API and Library",
-              "slug": "library-api",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
-              "dateModified": "2014-05-23T03:21:44.06Z",
+              "name": "Bug Fixes",
+              "slug": "bug-fixes",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/bug-fixes",
+              "dateModified": "2024-01-17T06:56:01.62Z",
               "gameId": 432,
               "isClass": false,
-              "id": 421,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "id": 6821,
+              "iconUrl": "https://media.forgecdn.net/avatars/934/473/638410713616155958.png",
               "parentCategoryId": 6,
               "classId": 6
             }
@@ -22500,9 +22732,9 @@
           "classId": 6,
           "slug": "moreculling",
           "isFeatured": false,
-          "dateModified": "2025-02-09T17:00:39.69Z",
+          "dateModified": "2025-02-26T16:51:41.26Z",
           "dateCreated": "2022-06-02T22:23:50.96Z",
-          "dateReleased": "2025-02-09T16:58:59.173Z",
+          "dateReleased": "2025-02-26T16:47:13.93Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/moreculling",
             "wikiUrl": "https://github.com/fxmorin/MoreCulling/wiki",
@@ -22519,7 +22751,7 @@
           },
           "allowModDistribution": true,
           "screenshots": [],
-          "mainFileId": 6175454
+          "mainFileId": 6240076
         },
         "curseForgeFile": {
           "id": 6175443,
@@ -22535,6 +22767,11 @@
             {
               "fileId": 0,
               "modId": 348521,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 317121,
               "relationType": 3
             }
           ],
@@ -22590,6 +22827,12 @@
           ],
           "sortableGameVersions": [
             {
+              "gameVersionPadded": "0000000001.0000000021",
+              "gameVersion": "1.21",
+              "gameVersionReleaseDate": "2024-06-14T00:00:00Z",
+              "gameVersionName": "1.21"
+            },
+            {
               "gameVersionPadded": "0",
               "gameVersion": "",
               "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
@@ -22609,6 +22852,7 @@
             }
           ],
           "gameVersions": [
+            "1.21",
             "Fabric",
             "1.21.1",
             "Quilt"
@@ -22817,7 +23061,7 @@
           "classId": 6,
           "slug": "xaeros-minimap",
           "isFeatured": false,
-          "dateModified": "2025-02-12T10:02:32.04Z",
+          "dateModified": "2025-02-19T12:52:29.69Z",
           "dateCreated": "2017-03-22T15:56:16.757Z",
           "dateReleased": "2025-02-12T09:57:15.763Z",
           "links": {
@@ -22835,7 +23079,7 @@
           },
           "allowModDistribution": true,
           "screenshots": [],
-          "mainFileId": 6142471
+          "mainFileId": 6184471
         },
         "curseForgeFile": {
           "id": 6184460,
@@ -22843,7 +23087,7 @@
           "isAvailable": true,
           "displayName": "v25.1.0 for Fabric 1.21.1",
           "fileName": "Xaeros_Minimap_25.1.0_Fabric_1.21.jar",
-          "releaseType": 3,
+          "releaseType": 2,
           "fileStatus": 4,
           "fileDate": "2025-02-12T09:54:24.91Z",
           "fileLength": 1704491,
@@ -23360,6 +23604,18 @@
           "gameId": 432,
           "summary": "Featureful and accessible modern item and recipe viewer with JEI compatibility",
           "categories": [
+            {
+              "name": "Map and Information",
+              "slug": "map-information",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
+              "dateModified": "2014-05-08T17:42:23.74Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 423,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
             {
               "name": "API and Library",
               "slug": "library-api",
@@ -23965,7 +24221,7 @@
         "curseForgeFileId": 5714955,
         "curseForgeProject": {
           "id": 500273,
-          "name": "Visual Workbench [Forge & Fabric]",
+          "name": "Visual Workbench",
           "authors": [
             {
               "id": 10384423,
@@ -24006,7 +24262,7 @@
           "classId": 6,
           "slug": "visual-workbench",
           "isFeatured": false,
-          "dateModified": "2025-02-05T20:11:32.997Z",
+          "dateModified": "2025-02-24T12:56:51.237Z",
           "dateCreated": "2021-07-03T11:28:49.237Z",
           "dateReleased": "2025-02-05T20:05:48.12Z",
           "links": {
@@ -24016,64 +24272,15 @@
             "sourceUrl": "https://github.com/Fuzss/visualworkbench"
           },
           "logo": {
-            "id": 802986,
+            "id": 1185919,
             "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/802/986/256/256/638168095863992377.png",
-            "title": "638168095863992377.png",
-            "url": "https://media.forgecdn.net/avatars/802/986/638168095863992377.png",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/1185/919/256/256/638759979085029659.png",
+            "title": "638759979085029659.png",
+            "url": "https://media.forgecdn.net/avatars/1185/919/638759979085029659.png",
             "modId": 500273
           },
           "allowModDistribution": true,
-          "screenshots": [
-            {
-              "id": 491949,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/491/949/310/172/2022-08-31_23.png",
-              "title": "Your crafting tables have never looked as fancy",
-              "url": "https://media.forgecdn.net/attachments/491/949/2022-08-31_23.png",
-              "modId": 500273
-            },
-            {
-              "id": 381485,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/381/485/310/172/2021-07-19_21.png",
-              "title": "Flat item rendering option",
-              "url": "https://media.forgecdn.net/attachments/381/485/2021-07-19_21.png",
-              "modId": 500273
-            },
-            {
-              "id": 491950,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/491/950/310/172/2022-08-31_23.png",
-              "title": "Choose flat item rendering if you prefer the look",
-              "url": "https://media.forgecdn.net/attachments/491/950/2022-08-31_23.png",
-              "modId": 500273
-            },
-            {
-              "id": 376998,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/376/998/310/172/2021-07-03_13.png",
-              "title": "Modded crafting tables work too",
-              "url": "https://media.forgecdn.net/attachments/376/998/2021-07-03_13.png",
-              "modId": 500273
-            },
-            {
-              "id": 376997,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/376/997/310/172/2021-07-03_12.png",
-              "title": "Crafting now looks really fancy",
-              "url": "https://media.forgecdn.net/attachments/376/997/2021-07-03_12.png",
-              "modId": 500273
-            },
-            {
-              "id": 381484,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/381/484/310/172/2021-07-19_21.png",
-              "title": "Floating item rendering option",
-              "url": "https://media.forgecdn.net/attachments/381/484/2021-07-19_21.png",
-              "modId": 500273
-            }
-          ],
+          "screenshots": [],
           "mainFileId": 6161767
         },
         "curseForgeFile": {
@@ -24338,9 +24545,9 @@
           "classId": 6,
           "slug": "fabric-api",
           "isFeatured": false,
-          "dateModified": "2025-02-20T18:50:57.207Z",
+          "dateModified": "2025-02-27T18:51:42.207Z",
           "dateCreated": "2018-11-08T17:59:56.667Z",
-          "dateReleased": "2025-02-20T18:46:06.85Z",
+          "dateReleased": "2025-02-27T18:46:41.58Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/fabric-api",
             "wikiUrl": "https://fabricmc.net/wiki/",
@@ -24736,18 +24943,6 @@
           "summary": "Adds a fullscreen worldmap which shows you what you have explored in the world. Can work together with Xaero's Minimap.",
           "categories": [
             {
-              "name": "Map and Information",
-              "slug": "map-information",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
-              "dateModified": "2014-05-08T17:42:23.74Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 423,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
               "name": "Player Transport",
               "slug": "technology-player-transport",
               "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-player-transport",
@@ -24758,6 +24953,18 @@
               "iconUrl": "https://media.forgecdn.net/avatars/6/29/635351495383551178.png",
               "parentCategoryId": 412,
               "classId": 6
+            },
+            {
+              "name": "Map and Information",
+              "slug": "map-information",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
+              "dateModified": "2014-05-08T17:42:23.74Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 423,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
+              "parentCategoryId": 6,
+              "classId": 6
             }
           ],
           "status": 4,
@@ -24765,7 +24972,7 @@
           "classId": 6,
           "slug": "xaeros-world-map",
           "isFeatured": false,
-          "dateModified": "2025-02-20T11:38:19.133Z",
+          "dateModified": "2025-02-25T12:05:48.15Z",
           "dateCreated": "2019-03-20T13:35:11.837Z",
           "dateReleased": "2025-02-20T09:30:42.293Z",
           "links": {
@@ -24808,7 +25015,7 @@
               "modId": 317780
             }
           ],
-          "mainFileId": 6142445
+          "mainFileId": 6212671
         },
         "curseForgeFile": {
           "id": 6212664,
@@ -24816,7 +25023,7 @@
           "isAvailable": true,
           "displayName": "1.39.4 for Fabric 1.21.1",
           "fileName": "XaerosWorldMap_1.39.4_Fabric_1.21.jar",
-          "releaseType": 3,
+          "releaseType": 2,
           "fileStatus": 4,
           "fileDate": "2025-02-20T09:27:07.457Z",
           "fileLength": 953657,
@@ -26196,9 +26403,9 @@
           "classId": 6,
           "slug": "sodium",
           "isFeatured": false,
-          "dateModified": "2025-02-19T22:48:08.04Z",
+          "dateModified": "2025-02-26T18:01:20.59Z",
           "dateCreated": "2020-07-08T23:18:29.833Z",
-          "dateReleased": "2025-02-19T22:42:34.247Z",
+          "dateReleased": "2025-02-26T17:57:16.27Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/sodium",
             "wikiUrl": "https://github.com/CaffeineMC/sodium-fabric/wiki",
@@ -26248,7 +26455,7 @@
               "modId": 394468
             }
           ],
-          "mainFileId": 6211319
+          "mainFileId": 6240357
         },
         "curseForgeFile": {
           "id": 6211305,
@@ -46402,12 +46609,12 @@
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1740701370510,
-    "numPlays": 205,
-    "lastExportName": "Main",
-    "lastExportVersion": "1.0.0",
-    "lastExportAuthor": "Gameking1happy",
-    "lastExportSaveTo": "C:\\Users\\gamek\\OneDrive\\Downloads"
+    "lastPlayed": 1740753277913,
+    "numPlays": 208,
+    "lastExportName": "GK1H Vanilla+",
+    "lastExportVersion": "0.8.0",
+    "lastExportAuthor": "Gameking1happy Development",
+    "lastExportSaveTo": "C:\\Users\\gamek\\Documents"
   },
   "id": "1.21.1",
   "complianceLevel": 1,
