@@ -27,11 +27,8 @@ assignees: Gameking1happy
 <!--Windows/MacOS/Linux  
 OS Version  
 Modrinth/CurseForge/ATLauncher/Prism Launcher/Minecraft Launcher/Other  
-Launcher Version  
-Fabric Version  
 Client/Server  
-Modpack Version  
-Release/Beta/Alpha-->
+Modpack Version-->
 
 **Additional context**  
 <!--Add any other context about the problem here.-->
