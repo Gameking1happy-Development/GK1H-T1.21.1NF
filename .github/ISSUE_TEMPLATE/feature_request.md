@@ -4,6 +4,7 @@ about: Suggest an idea for this project
 title: "[FEATURE REQUEST]"
 labels: Enhancement
 assignees: Gameking1happy
+type: Feature
 
 ---
 
