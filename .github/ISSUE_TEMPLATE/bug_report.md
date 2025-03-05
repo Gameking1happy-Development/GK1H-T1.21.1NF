@@ -4,6 +4,7 @@ about: Create a report to help us improve
 title: "[BUG REPORT]"
 labels: Bug
 assignees: Gameking1happy
+type: Bug
 
 ---
 <!--IF THIS IS A SECURITY VULNERABILITY OPEN A REPORT FOR THAT HERE: https://github.com/Gameking1happy-Development/GK1H-Vanilla-Plus/security/advisories/new-->
