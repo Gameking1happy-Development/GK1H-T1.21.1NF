@@ -48,6 +48,18 @@
                     "generic": "https://github.com/Gameking1happy-Development/GK1H-Vanilla-Plus/releases/tag/0.8.3/"
                 }
             }
+        },
+        {
+            "id": "0.8.4",
+            "releasedAt": 1741193071000,
+            "updateType":"minor",
+            "promotions": {
+                "downloads": {
+                    "modrinth": "https://modrinth.com/modpack/gk1h-vanilla+/version/0.8.4/",
+                    "curseforge": "https://www.curseforge.com/minecraft/modpacks/gk1h-vanilla-plus/files/6267690/",
+                    "generic": "https://github.com/Gameking1happy-Development/GK1H-Vanilla-Plus/releases/tag/0.8.4/"
+                }
+            }
         }
     ]
   }

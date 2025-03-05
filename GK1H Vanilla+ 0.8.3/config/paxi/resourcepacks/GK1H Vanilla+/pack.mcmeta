@@ -1,7 +1,0 @@
-{
-  "pack": {
-    "description": "Changes certain textures, mainly logos.",
-    "pack_format": 18,
-    "supported_formats": [18, 46]
-  }
-}
