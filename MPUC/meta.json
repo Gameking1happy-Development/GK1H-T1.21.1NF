@@ -63,12 +63,12 @@
         },
         {
             "id": "0.9.0",
-            "releasedAt": 987654321098765,
+            "releasedAt": 1741459769000,
             "updateType":"major",
             "promotions": {
                 "downloads": {
                     "modrinth": "https://modrinth.com/modpack/gk1h-vanilla+/version/0.9.0/",
-                    "curseforge": "https://www.curseforge.com/minecraft/modpacks/gk1h-vanilla-plus/files/PLACEHOLDER/",
+                    "curseforge": "https://www.curseforge.com/minecraft/modpacks/gk1h-vanilla-plus/files/6280687/",
                     "generic": "https://github.com/Gameking1happy-Development/GK1H-Vanilla-Plus/releases/tag/0.9.0/"
                 }
             }
