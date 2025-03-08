@@ -1,0 +1,134 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = dateerror
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1740494035156
+  is_enabled = true
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 1
+  [loading_requirement_container_meta:5b159e47-9575-4965-8a0e-9f71c4bbf096-1740493707001] = [groups:][instances:]
+}
+
+customization {
+  action = backgroundoptions
+  keepaspectratio = false
+}
+
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
+  show_screen_background_overlay_on_custom_background = false
+  apply_vanilla_background_blur = false
+}
+
+layout_action_executable_blocks {
+}
+
+element {
+  button_element_executable_block_identifier = 79b93447-e4f6-4631-9959-e574fe844c3c-1740493716917
+  [executable_action_instance:f584ae6f-c08c-4b21-b057-45202df24b5a-1740493986524][action_type:closegui] = 
+  [executable_block:79b93447-e4f6-4631-9959-e574fe844c3c-1740493716917][type:generic] = [executables:f584ae6f-c08c-4b21-b057-45202df24b5a-1740493986524;]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = Exit
+  navigatable = true
+  widget_active_state_requirement_container_identifier = d984cede-4d96-4221-a63f-f408dc35f620-1740493716917
+  [loading_requirement_container_meta:d984cede-4d96-4221-a63f-f408dc35f620-1740493716917] = [groups:][instances:]
+  element_type = custom_button
+  instance_identifier = d97391e4-90b2-4d72-a312-d031678acc33-1740493716917
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1080
+  sticky_anchor = false
+  anchor_point = bottom-centered
+  x = -15
+  y = -45
+  width = 30
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 27ba7fcc-c6f4-4fc3-8eb4-cbcfb9f8b5eb-1740493716917
+  [loading_requirement_container_meta:27ba7fcc-c6f4-4fc3-8eb4-cbcfb9f8b5eb-1740493716917] = [groups:][instances:]
+  enable_parallax = false
+  parallax_intensity = 0.5
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  in_editor_color = #FFC800FF
+}
+
+element {
+  interactable = false
+  source = ^^^%n%Date format setting value was non-supported value, and has been set to mm/dd/yyyy.%n%^^^
+  source_mode = direct
+  shadow = true
+  scale = 1.0
+  base_color = #FFFFFFFF
+  text_border = 0
+  line_spacing = 0
+  enable_scrolling = false
+  auto_line_wrapping = true
+  remove_html_breaks = true
+  code_block_single_color = #737373FF
+  code_block_multi_color = #565656FF
+  headline_line_color = #A9A9A9FF
+  separation_line_color = #A9A9A9FF
+  hyperlink_color = #0771FCFF
+  quote_color = #818181FF
+  quote_indent = 8.0
+  quote_italic = false
+  bullet_list_dot_color = #A9A9A9FF
+  bullet_list_indent = 8.0
+  bullet_list_spacing = 3.0
+  parse_markdown = true
+  element_type = text_v2
+  instance_identifier = c744f5c0-a2f4-43e7-94f1-2c0d210404f9-1740493734094
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1080
+  sticky_anchor = false
+  anchor_point = mid-centered
+  x = -100
+  y = -16
+  width = 200
+  height = 29
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = b2412b32-1258-4175-bb80-78107c588287-1740493734094
+  [loading_requirement_container_meta:b2412b32-1258-4175-bb80-78107c588287-1740493734094] = [groups:][instances:]
+  enable_parallax = false
+  parallax_intensity = 0.5
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  in_editor_color = #FFC800FF
+}
+
