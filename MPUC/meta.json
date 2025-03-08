@@ -62,7 +62,7 @@
             }
         },
         {
-            "id": "0.8.4",
+            "id": "0.9.0",
             "releasedAt": 987654321098765,
             "updateType":"major",
             "promotions": {
