@@ -1,0 +1,38 @@
+{
+	menuAlert: false,
+	chatAlert: false,
+	chatMessage: "There is an update available for your modpack!",
+	platform: "MODRINTH",
+	modpackName: "GK1H Vanilla+",
+	modpackId: "gk1h-vanilla+",
+	modpackHome: "https://github.com/me/My-Modpack",
+	localVersion: "0.9.1",
+	checkMcVersion: false,
+	loader: "fabric",
+	versionAPI: "https://raw.githubusercontent.com/me/My-Modpack/main/Packwiz/pack.toml",
+	changelogLink: "https://raw.githubusercontent.com/me/My-Modpack/main/CHANGELOG.md",
+	versionType: [
+		"release",
+		"beta",
+		"alpha"
+	],
+	nameFilters: [],
+	versionFilters: [],
+	chatWelcome: true,
+	chatWelcomeMessage: "Welcome to <modpack-name> <version>!",
+	customIcon: true,
+	customTitle: true,
+	title: "<modpack-name> <version> | Minecraft <mc>",
+	mainMenuCreditsIntegeration: "FANCY",
+	customMmc: [
+		"<version>",
+		"#FF00FF",
+		"<version-link>",
+		"<modpack-name>",
+		"#55FF55",
+		"<modpack-home>"
+	],
+	ramMenuAlert: true,
+	ramChatAlert: true,
+	minRam: 4000
+}
