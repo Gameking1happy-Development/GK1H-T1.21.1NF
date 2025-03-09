@@ -6,7 +6,7 @@
 	modpackName: "GK1H Vanilla+",
 	modpackId: "gk1h-vanilla+",
 	modpackHome: "https://github.com/me/My-Modpack",
-	localVersion: "0.9.1",
+	localVersion: "0.9.2",
 	checkMcVersion: false,
 	loader: "fabric",
 	versionAPI: "https://raw.githubusercontent.com/me/My-Modpack/main/Packwiz/pack.toml",
