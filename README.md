@@ -1,24 +1,15 @@
-GK1H Vanilla+ is a Vanilla+ modpack made by Gameking1happy Development. It was created by Gameking1happy using the instance he used for vanilla, with additions including stuff to actually make it into a modpack.  
+GK1H Vanilla+ is a Vanilla+ modpack made by Gameking1happy Development. It was created by Gameking1happy using the instance he used for vanilla, with additions including stuff to actually make it into a modpack. It then was rebuilt using NeoForge 1.21.1, and is now only for use in singleplayer or servers using the modpack.  
 
 # Content  
 
-GK1HV+ adds QOL & performance improvements, and some additional items, blocks, and mobs.  
-
-# Uses  
-
-It can be used for singleplayer, multiplayer, and vanilla/plugin servers. Please note that in certain cases mods might need to be disabled to play properly, usually only on vanilla/plugin servers.  
-
-# Plans  
-
-There will be a mod list which will also include if mod should be disabled or enabled on modpack/vanilla servers.  
+GK1HV+ adds many optimization, QOL improvements, new blocks, items, and more.  
 
 # Known Issues  
 
 [Iris breaks taking panoramic screenshots,](https://github.com/IrisShaders/Iris/issues/2196) which means it must be disabled to [take a panoramic screenshot with Vistas.](https://github.com/TerraformersMC/Vistas/issues/22) This issue cannot be fixed by Gameking1happy Development, and any bug reports about it will be closed.  
-[Item frames float,](https://github.com/Gameking1happy-Development/GK1H-Vanilla-Plus/issues/3) this is low priority and is unknown, will possibly get fixed either 0.9.x or 1.0.x.  
-Crawling via keybind (added by [Crawl](https://modrinth.com/mod/crawl)) [does not work when NoChangeTheGame is enabled.](https://github.com/CecerMCProjects/NoChangeTheGame/issues/27) Please note this is **INTENTIONAL** for Hypixel, since this mod makes changes when on Hypixel to make the game more like the version it runs on. This issue cannot be fixed by Gameking1happy Development, and any bug reports about it will be closed.  
-Combat Nouveau affects entity interaction on plugin servers. Currently, no issue has been made about this. This issue cannot be fixed by Gameking1happy Development, and any bug reports about it will be closed. If you want this fixed, [open an issue for Combat Nouveau.](https://github.com/Fuzss/combatnouveau/issues)  
-Tooltip Tweaks causes Minecraft to crash on plugin servers when hovering over non-vanilla items. Currently, no issue has been made about this. This issue cannot be fixed by Gameking1happy Development, and any bug reports about it will be closed. If you want this fixed, [open an issue for Tooltip Tweaks.](https://github.com/lunarbunten/tooltiptweaks-mod/issues)  
+[Tooltip Tweaks crashes using with Sinytra Connector on NeoForge.](https://github.com/Sinytra/Connector/issues/1721) It is fine on Fabric 1.21.1. Until this is fixed, Tooltip Tweaks will be excluded from the modpack.  
+[Screenshot Viewer crashes when with Better Statistics Screen/TCDCommons API when using with Sinytra Connector on NeoForge.](https://github.com/Sinytra/Connector/issues/1722) All 3 mods are fine on Fabric 1.21.1. Until this is fixed, Screenshot Viewer will be excluded from the modpack.  
+[ModpackUtils NeoForge version crashes with no crash log.](https://github.com/UltimatChamp/ModpackUtils/issues/3) Fabric version is fine on Fabric and when using with Sinytra Connector on NeoForge. Until this is fixed, the Fabric 1.21.1 compatible version of ModpackUtils will be used in the modpack.  
 
 # Links  
 [Discord](https://discord.gg/AwJvGzH)  
