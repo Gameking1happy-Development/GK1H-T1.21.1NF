@@ -96,6 +96,18 @@
                     "generic": "https://github.com/Gameking1happy-Development/GK1H-Vanilla-Plus/releases/tag/0.9.2/"
                 }
             }
+        },
+        {
+            "id": "0.10.0",
+            "releasedAt": 987654321098765,
+            "updateType":"incompatible",   
+            "promotions": {
+                "downloads": {
+                    "modrinth": "https://modrinth.com/modpack/gk1h-vanilla+/version/0.10.0/",
+                    "curseforge": "https://www.curseforge.com/minecraft/modpacks/gk1h-vanilla-plus/files/PLACEHOLDER/",
+                    "generic": "https://github.com/Gameking1happy-Development/GK1H-Vanilla-Plus/releases/tag/0.10.0/"
+                }
+            }
         }
     ]
   }
