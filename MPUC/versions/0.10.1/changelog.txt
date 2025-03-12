@@ -1,0 +1,21 @@
+# Mod Additions
+
+Readded JEI.
+
+Readded Too Fast. (Removal was unintended.)
+
+Added Very Many Players (Fabric).
+
+# Mod Updates
+
+Updated LuckPerms. (Previous version caused Invalid player data error upon joining server, and latest version, marked 1.21.4, works.)
+
+# Other Changes
+
+Completed modlist.md.
+
+Some config and other changes.
+
+# Notice
+
+**IT IS RECOMMENDED TO DO A FULL REINSTALL OF THE MODPACK, DUE TO CHANGE TO NEOFORGE, ISSUES CAUSED BY UPDATING FROM 0.9.2 OR LOWER TO 0.10.0 OR HIGHER WILL BE MARKED AS WON'T FIX!!!**
