@@ -1,1 +1,0 @@
-Rebuilt modpack using NeoForge 1.21.1. Cannot confirm that updating will work correctly, possibly need to reinstall.

@@ -1,7 +1,0 @@
-# Mod Removals
-
-Removed MCEF.
-
-# Other Changes
-
-Updated some mods.

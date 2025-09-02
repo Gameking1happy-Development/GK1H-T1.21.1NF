@@ -1,9 +1,0 @@
-# Mod Changes
-
-Changed configs for Mutant Monsters.
-
-# Other Changes
-
-Changed server pack to exclude mod jars because legal reasons.
-
-Fixed issue caused by 2 mods having different hashes on CurseForge and Modrinth.

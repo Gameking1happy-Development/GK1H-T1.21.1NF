@@ -1,7 +1,0 @@
-# Mod Additions
-
-Trinkets
-
-# Fixes
-
-Fixed server pack.
