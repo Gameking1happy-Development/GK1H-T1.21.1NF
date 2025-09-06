@@ -1,1 +1,3 @@
 First version of template.
+
+Hotfix: Removed mod because unable to run modpack.
