@@ -16,12 +16,12 @@
         },
       {
         "id": "1.0.1",
-        "releasedAt": 1757182716000,
+        "releasedAt": 1757280595000,
         "updateType":"incompatible",
         "promotions": {
           "downloads": {
             "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.0.1/",
-            "curseforge": "https://www.curseforge.com/minecraft/modpacks/gk1h-t1211nf/files/PLAHOL/",
+            "curseforge": "https://www.curseforge.com/minecraft/modpacks/gk1h-t1211nf/files/6974369/",
             "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.0.1/"
           }
         }
