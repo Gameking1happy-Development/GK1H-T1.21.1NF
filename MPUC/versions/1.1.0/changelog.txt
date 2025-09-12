@@ -1,0 +1,49 @@
+# GK1H-T1.21.1NF 1.1.0 - The True Release
+
+## Mod Additions
+
+Personality
+
+Blueprint (Library)
+
+Elytra Physics
+
+Easy Elytra Take Off
+
+Customizable Elytra
+
+Elytra Slot
+
+Elytra Trims
+
+Caelus API (Library)
+
+Ender Dragon Egg Respawn
+
+Dragon Drop Elytra
+
+LeadRecipeBackport
+
+Craftable
+
+Backported Minecarts
+
+Lodestone Update Backport
+
+Name Tag Tweaks
+
+Traveler's Backpack
+
+Possibly more.
+
+## Mod Removals
+
+Crawl (Personality adds crawling and more.)
+
+## Other Changes
+
+Configs.
+
+## Notice
+
+YOUR OPTIONS AND SERVERS WILL BE RESET THIS VERSION!!! THIS IS BECAUSE THEY WERE NOT CHANGED WHEN CONVERTING GK1HV+ TO GK1H-T1.21.1NF!!!
