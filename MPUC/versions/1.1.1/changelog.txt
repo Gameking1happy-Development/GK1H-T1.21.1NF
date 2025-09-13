@@ -1,0 +1,43 @@
+# GK1H-T1.21.1NF 1.1.1 - Recycling, Renewability, & More
+
+## Mod Additions
+
+Fortunate Ancient Debris
+
+Netherite Extras
+
+Better Iron Recycling
+
+Better Gold Recycling
+
+Leather Recycling
+
+Diamond Recycling
+
+Netherite Recycling
+
+Copper Recycling
+
+Sandstone Recycling
+
+Chain Armor Recipe
+
+Enchanted Golden Apple Addition
+
+Heavy Core Duplication
+
+Simple Tuff Recipe
+
+New Lodestone Recipe
+
+Easy Netherite Ingot
+
+Renewable Sponges (EMI does not detect wet sponges being added to fishing loot, but have confirmed via testing.)
+
+Choccy's Craftable Saddles & Horse Armor
+
+## Mod Removals
+
+Craftable (does not work)
+
+Lodestone Update Backport (does not work)
