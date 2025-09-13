@@ -1,5 +1,9 @@
 # GK1H-T1.21.1NF 1.1.1 - Recycling, Renewability, & More
 
+## NOTICE!!!
+
+It is recommended to delete old instances and install a new instance of this version.
+
 ## Mod Additions
 
 Fortunate Ancient Debris

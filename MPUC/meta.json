@@ -51,7 +51,7 @@
       {
         "id": "1.1.1",
         "releasedAt": 987654321098765,
-        "updateType":"minor_breaking",
+        "updateType":"incompatible",
         "promotions": {
           "downloads": {
             "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.1.1/",
