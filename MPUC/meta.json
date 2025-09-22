@@ -80,6 +80,17 @@
             "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.1.3/"
           }
         }
+      },
+      {
+        "id": "1.2.0",
+        "releasedAt": 1758548247000,
+        "updateType":"major",
+        "promotions": {
+          "downloads": {
+            "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.2.0/",
+            "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.2.0/"
+          }
+        }
       }
     ]
   }
