@@ -1,0 +1,59 @@
+# GK1H-T1.21.1NF 1.4.0 - Recipes Update
+
+## Mod Additions
+
+GK1H Recipes
+
+Random Shulker Colours
+
+Reinforced Shulker Boxes
+
+Respawning Shulkers
+
+## Mod Removals
+
+Heavy Core Duplication
+
+Easy Netherite Ingot
+
+Simple Tuff Recipe
+
+New Lodestone Recipe
+
+Lead Recipe Backport
+
+Enchanted Golden Apple Addition
+
+Craftable Totem of Undying
+
+Chain Armor Recipe
+
+Choccy's Craftable Saddles & Horse Armor
+
+## Mod Updates
+
+Accessories (1.1.0-beta.51 to 1.1.0-beta.52)
+
+Accessories Compatibility Layer (0.1.9 to 0.1.10)
+
+Balm (21.0.51 to 21.0.52)
+
+Better Animations Collection (v21.1.0 to v21.1.1)
+
+Chat Heads (0.13.21 to 0.14.0)
+
+Collective (8.3 to 8.5)
+
+Just Enough Items (19.25.0.321 to 19.25.0.322)
+
+Kiwi 🥝 (15.7.2 to 15.7.3)
+
+Sinytra Connector (2.0.0-beta.9 to 2.0.0-beta.10)
+
+## Changes
+
+Updated a few configs.
+
+## Current Issues
+
+Totem of Neverdying (from Netherite Extras) cannot be equipped in the charm slot. Accessiorify does not currently have compatibility with Netherite Extras. I have opened an issue on their GitHub to see if they can add compatibility. In the meantime, you can use the totem in your offhand or main hand.
