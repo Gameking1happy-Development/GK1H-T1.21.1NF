@@ -148,13 +148,13 @@
         }
       },
       {
-        "id": "1.3.5",
+        "id": "1.4.0",
         "releasedAt": 1759447500000,
-        "updateType":"minor",
+        "updateType":"incompatible",
         "promotions": {
           "downloads": {
-            "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.3.5/",
-            "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.3.5/"
+            "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.4.0/",
+            "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.4.0/"
           }
         }
       }
