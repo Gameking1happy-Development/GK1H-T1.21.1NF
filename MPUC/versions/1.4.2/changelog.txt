@@ -1,0 +1,19 @@
+# GK1H-T1.21.1NF 1.4.2 - More Performance Mods
+
+## Mod Additions
+
+Noisium
+
+BadOptimizations
+
+## Mod Updates
+
+Collective (8.5 to 8.7)
+
+Kiwi 🥝 (15.7.3 to 15.7.4)
+
+Zoomify (2.14.4 to 2.14.6)
+
+## Current Issues
+
+Totem of Neverdying (from Netherite Extras) cannot be equipped in the charm slot. Accessiorify does not currently have compatibility with Netherite Extras. I have opened an issue on their GitHub to see if they can add compatibility. In the meantime, you can use the totem in your offhand or main hand.
