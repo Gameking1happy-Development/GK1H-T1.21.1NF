@@ -1,0 +1,35 @@
+# GK1H-T1.21.1NF 1.5.2 - Inventory Mod
+
+## Mod Additions
+
+libIPN
+
+Inventory Profiles Next
+
+## Mod Removals
+
+Your Reputation (Jade)
+
+## Mod Updates
+
+AttributeFix (21.1.2 to 21.1.3)
+
+Blueprint (8.0.6 to 8.0.7)
+
+Bookshelf (21.1.69 to 21.1.77)
+
+Climate Rivers (v21.1.2 to v21.1.3)
+
+Concurrent Chunk Management Engine (NeoForge) (0.3.0+alpha.0.80 to 0.3.0+alpha.0.81)
+
+Entity Culling (1.9.0 to 1.9.1)
+
+LambDynamicLights - Dynamic Lights (4.8.3 to 4.8.4)
+
+## Other Changes
+
+Updated NeoForge from 21.1.210 to 21.1.211.
+
+## Current Issues
+
+Totem of Neverdying (from Netherite Extras) cannot be equipped in the charm slot. Accessiorify does not currently have compatibility with Netherite Extras. I have opened an issue on their GitHub to see if they can add compatibility. In the meantime, you can use the totem in your offhand or main hand.
