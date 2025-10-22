@@ -1,228 +1,228 @@
 {
-    "schemaVersion": 1,
-    "hotfixesFormat": null,
-    "versions": [
-        {
-            "id": "1.0.0",
-            "releasedAt": 1757182716000,
-            "updateType":"incompatible",
-            "promotions": {
-                "downloads": {
-                    "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.0.0/",
-                    "curseforge": "https://www.curseforge.com/minecraft/modpacks/gk1h-t1211nf/files/6970084/",
-                    "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.0.0/"
-                }
-            }
-        },
-      {
-        "id": "1.0.1",
-        "releasedAt": 1757280595000,
-        "updateType":"incompatible",
-        "promotions": {
-          "downloads": {
-            "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.0.1/",
-            "curseforge": "https://www.curseforge.com/minecraft/modpacks/gk1h-t1211nf/files/6974369/",
-            "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.0.1/"
-          }
-        }
-      },
-      {
-        "id": "1.0.2",
-        "releasedAt": 1757682602000,
-        "updateType":"minor",
-        "promotions": {
-          "downloads": {
-            "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.0.2/",
-            "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.0.2/"
-          }
-        }
-      },
-      {
-        "id": "1.1.0",
-        "releasedAt": 1757719560000,
-        "updateType":"incompatible",
-        "promotions": {
-          "downloads": {
-            "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.1.0/",
-            "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.1.0/"
-          }
-        }
-      },
-      {
-        "id": "1.1.1",
-        "releasedAt": 1757786340000,
-        "updateType":"incompatible",
-        "promotions": {
-          "downloads": {
-            "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.1.1/",
-            "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.1.1/"
-          }
-        }
-      },
-      {
-        "id": "1.1.2",
-        "releasedAt": 1757945045000,
-        "updateType":"minor",
-        "promotions": {
-          "downloads": {
-            "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.1.2/",
-            "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.1.2/"
-          }
-        }
-      },
-      {
-        "id": "1.1.3",
-        "releasedAt": 1758128083000,
-        "updateType":"minor",
-        "promotions": {
-          "downloads": {
-            "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.1.3/",
-            "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.1.3/"
-          }
-        }
-      },
-      {
-        "id": "1.2.0",
-        "releasedAt": 1758548247000,
-        "updateType":"major",
-        "promotions": {
-          "downloads": {
-            "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.2.0/",
-            "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.2.0/"
-          }
-        }
-      },
-      {
-        "id": "1.3.0",
-        "releasedAt": 1758829701000,
-        "updateType":"major",
-        "promotions": {
-          "downloads": {
-            "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.3.0/",
-            "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.3.0/"
-          }
-        }
-      },
-      {
-        "id": "1.3.1",
-        "releasedAt": 1758891926000,
-        "updateType":"minor_breaking",
-        "promotions": {
-          "downloads": {
-            "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.3.1/",
-            "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.3.1/"
-          }
-        }
-      },
-      {
-        "id": "1.3.2",
-        "releasedAt": 1758916218000,
-        "updateType":"minor_breaking",
-        "promotions": {
-          "downloads": {
-            "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.3.2/",
-            "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.3.2/"
-          }
-        }
-      },
-      {
-        "id": "1.3.3",
-        "releasedAt": 1758988136000,
-        "updateType":"minor_breaking",
-        "promotions": {
-          "downloads": {
-            "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.3.3/",
-            "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.3.3/"
-          }
-        }
-      },
-      {
-        "id": "1.3.4",
-        "releasedAt": 1759020203000,
-        "updateType":"minor",
-        "promotions": {
-          "downloads": {
-            "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.3.4/",
-            "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.3.4/"
-          }
-        }
-      },
-      {
-        "id": "1.4.0",
-        "releasedAt": 1759447500000,
-        "updateType":"incompatible",
-        "promotions": {
-          "downloads": {
-            "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.4.0/",
-            "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.4.0/"
-          }
-        }
-      },
-      {
-        "id": "1.4.1",
-        "releasedAt": 1759504637000,
-        "updateType":"minor",
-        "promotions": {
-          "downloads": {
-            "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.4.1/",
-            "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.4.1/"
-          }
-        }
-      },
-      {
-        "id": "1.4.2",
-        "releasedAt": 1759711345000,
-        "updateType":"minor_breaking",
-        "promotions": {
-          "downloads": {
-            "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.4.2/",
-            "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.4.2/"
-          }
-        }
-      },
-      {
-        "id": "1.5.0",
-        "releasedAt": 1760233115000,
-        "updateType":"major",
-        "promotions": {
-          "downloads": {
-            "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.5.0/",
-            "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.5.0/"
-          }
-        }
-      },
-      {
-        "id": "1.5.1",
-        "releasedAt": 1760404051000,
-        "updateType":"minor_breaking",
-        "promotions": {
-          "downloads": {
-            "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.5.1/",
-            "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.5.1/"
-          }
-        }
-      },
-      {
-        "id": "1.5.2",
-        "releasedAt": 1760703980000,
-        "updateType":"minor",
-        "promotions": {
-          "downloads": {
-            "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.5.2/",
-            "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.5.2/"
-          }
-        }
-      },
-      {
-        "id": "1.5.3",
-        "releasedAt": 987654321098765,
-        "updateType":"minor",
-        "promotions": {
-          "downloads": {
-            "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.5.3/",
-            "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.5.3/"
-          }
+  "schemaVersion": 1,
+  "hotfixesFormat": null,
+  "versions": [
+    {
+      "id": "1.0.0",
+      "releasedAt": 1757182716000,
+      "updateType": "incompatible",
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.0.0/",
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/gk1h-t1211nf/files/6970084/",
+          "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.0.0/"
         }
       }
-    ]
-  }
+    },
+    {
+      "id": "1.0.1",
+      "releasedAt": 1757280595000,
+      "updateType": "incompatible",
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.0.1/",
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/gk1h-t1211nf/files/6974369/",
+          "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.0.1/"
+        }
+      }
+    },
+    {
+      "id": "1.0.2",
+      "releasedAt": 1757682602000,
+      "updateType": "minor",
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.0.2/",
+          "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.0.2/"
+        }
+      }
+    },
+    {
+      "id": "1.1.0",
+      "releasedAt": 1757719560000,
+      "updateType": "incompatible",
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.1.0/",
+          "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.1.0/"
+        }
+      }
+    },
+    {
+      "id": "1.1.1",
+      "releasedAt": 1757786340000,
+      "updateType": "incompatible",
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.1.1/",
+          "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.1.1/"
+        }
+      }
+    },
+    {
+      "id": "1.1.2",
+      "releasedAt": 1757945045000,
+      "updateType": "minor",
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.1.2/",
+          "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.1.2/"
+        }
+      }
+    },
+    {
+      "id": "1.1.3",
+      "releasedAt": 1758128083000,
+      "updateType": "minor",
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.1.3/",
+          "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.1.3/"
+        }
+      }
+    },
+    {
+      "id": "1.2.0",
+      "releasedAt": 1758548247000,
+      "updateType": "major",
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.2.0/",
+          "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.2.0/"
+        }
+      }
+    },
+    {
+      "id": "1.3.0",
+      "releasedAt": 1758829701000,
+      "updateType": "major",
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.3.0/",
+          "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.3.0/"
+        }
+      }
+    },
+    {
+      "id": "1.3.1",
+      "releasedAt": 1758891926000,
+      "updateType": "minor_breaking",
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.3.1/",
+          "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.3.1/"
+        }
+      }
+    },
+    {
+      "id": "1.3.2",
+      "releasedAt": 1758916218000,
+      "updateType": "minor_breaking",
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.3.2/",
+          "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.3.2/"
+        }
+      }
+    },
+    {
+      "id": "1.3.3",
+      "releasedAt": 1758988136000,
+      "updateType": "minor_breaking",
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.3.3/",
+          "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.3.3/"
+        }
+      }
+    },
+    {
+      "id": "1.3.4",
+      "releasedAt": 1759020203000,
+      "updateType": "minor",
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.3.4/",
+          "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.3.4/"
+        }
+      }
+    },
+    {
+      "id": "1.4.0",
+      "releasedAt": 1759447500000,
+      "updateType": "incompatible",
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.4.0/",
+          "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.4.0/"
+        }
+      }
+    },
+    {
+      "id": "1.4.1",
+      "releasedAt": 1759504637000,
+      "updateType": "minor",
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.4.1/",
+          "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.4.1/"
+        }
+      }
+    },
+    {
+      "id": "1.4.2",
+      "releasedAt": 1759711345000,
+      "updateType": "minor_breaking",
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.4.2/",
+          "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.4.2/"
+        }
+      }
+    },
+    {
+      "id": "1.5.0",
+      "releasedAt": 1760233115000,
+      "updateType": "major",
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.5.0/",
+          "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.5.0/"
+        }
+      }
+    },
+    {
+      "id": "1.5.1",
+      "releasedAt": 1760404051000,
+      "updateType": "minor_breaking",
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.5.1/",
+          "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.5.1/"
+        }
+      }
+    },
+    {
+      "id": "1.5.2",
+      "releasedAt": 1760703980000,
+      "updateType": "minor",
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.5.2/",
+          "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.5.2/"
+        }
+      }
+    },
+    {
+      "id": "1.5.3",
+      "releasedAt": 987654321098765,
+      "updateType": "minor",
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.5.3/",
+          "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.5.3/"
+        }
+      }
+    }
+  ]
+}
