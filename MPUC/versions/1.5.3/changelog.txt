@@ -1,0 +1,11 @@
+# GK1H-T1.21.1NF 1.5.3 - New Fuzs Mod
+
+## Mod Additions
+
+Armor Quick Swap
+
+Enchantment Switch
+
+## Current Issues
+
+Totem of Neverdying (from Netherite Extras) cannot be equipped in the charm slot. Accessiorify does not currently have compatibility with Netherite Extras. I have opened an issue on their GitHub to see if they can add compatibility. In the meantime, you can use the totem in your offhand or main hand.
