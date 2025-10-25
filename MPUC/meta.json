@@ -214,13 +214,14 @@
       }
     },
     {
-      "id": "1.5.3",
+      "id": "1.6.0",
       "releasedAt": 987654321098765,
       "updateType": "minor",
       "promotions": {
         "downloads": {
-          "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.5.3/",
-          "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.5.3/"
+          "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.6.0/",
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/gk1h-t1211fa/files/PLACEHOLDER",
+          "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.6.0/"
         }
       }
     }

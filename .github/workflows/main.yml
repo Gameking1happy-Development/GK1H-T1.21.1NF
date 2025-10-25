@@ -1,0 +1,28 @@
+on:
+  release:
+    types: [published]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: Kir-Antipov/mc-publish@v3.3
+        with:
+          # Only include this section if you wish to publish
+          # your assets on Modrinth.
+          modrinth-id: Ey3ahEu7
+          modrinth-token: ${{ secrets.GK1H_MODRINTH_API_KEY }}
+          modrinth-files: |
+            client/*.mrpack
+          curseforge-files: |
+            client/*.zip
+          # Only include this section if you wish to publish
+          # your assets on CurseForge.
+          curseforge-id: 1371586
+          curseforge-token: ${{ secrets.GK1H_CURSEFORGE_API_KEY }}
+          loaders: |
+            neoforge
+          game-versions: |
+            1.21.1

@@ -1,10 +1,27 @@
-# GK1H-T1.21.1NF 1.5.3 - New Fuzs Mod
+# GK1H-T1.21.1NF 1.6.0 - New Fuzs Mods & mc-publish
 
 ## Mod Additions
 
 Armor Quick Swap
 
 Enchantment Switch
+
+## Mod Updates
+
+Anvian's Lib (1.2 to 1.4.1)
+
+Collective (8.7 to 8.12)
+
+Configured (2.6.1 to 2.6.2)
+
+
+## Other Changes
+
+Updated NeoForge from 21.1.211 to 21.1.213.
+
+Implemented mc-publish.
+
+Added icons.
 
 ## Current Issues
 
