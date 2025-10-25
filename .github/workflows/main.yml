@@ -37,4 +37,4 @@ jobs:
           sed -i "s/PLACEHOLDER/"${{ needs.build.outputs.curseforge-version }}"/g" MPUC/meta.json
           git add --all
           git commit -m "Update timestamp"
-          git push origin HEAD:main --force
+          git push origin HEAD:main
