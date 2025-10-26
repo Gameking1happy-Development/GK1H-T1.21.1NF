@@ -16,5 +16,12 @@ jobs:
         run: |
           touch test.txt
           git add test.txt
-          git commit -m "test"
+      - name: Verified commit
+        uses: swinton/commit@v2.0.0
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        with:
+          files: test.txt
+          commit-message: "Test"
+      - name: Push
           git push origin HEAD:main
