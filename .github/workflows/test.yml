@@ -16,5 +16,10 @@ jobs:
         run: |
           touch test.txt
           git add test.txt
-          git commit -m "test"
-          git push origin HEAD:main
+      - name: Signed commit
+        uses: IAreKyleW00t/verified-bot-commit@v2.0.4
+        with:
+          message: "Test"
+          files: test.txt
+      - name: Push
+        run: git push origin HEAD:main
