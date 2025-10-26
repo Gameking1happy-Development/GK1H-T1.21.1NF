@@ -9,6 +9,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
+          repository: Gameking1happy-Development/GK1H-T1.21.1NF
           ssh-key: ${{ secrets.DEPLOY_KEY }}
       - name: Identify
         run: |
