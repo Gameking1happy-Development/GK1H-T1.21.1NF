@@ -23,7 +23,3 @@ jobs:
         with:
           files: test.txt
           commit-message: "Test"
-      - name: Push
-        run: |
-          git pull origin HEAD:main
-          git push origin HEAD:main
