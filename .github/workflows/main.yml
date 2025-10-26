@@ -33,9 +33,9 @@ jobs:
             neoforge
           game-versions: |
             1.21.1
-      - name: Update timestamp
+      - name: Update CurseForge file
         run: |
           sed -i "s/PLACEHOLDER/"${{ steps.step1.outputs.curseforge-version }}"/g" MPUC/meta.json
           git add MPUC/meta.json
-          git commit -m "Update timestamp"
+          git commit -m "Update CurseForge file"
           git push origin HEAD:main
