@@ -6,9 +6,10 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
         with:
-          ssh-key: ${{secrets.DEPLOY_KEY}}
+          ssh-key: ${{ secrets.DEPLOY_KEY }}
       - name: Identify
         run: |
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
