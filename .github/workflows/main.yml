@@ -9,12 +9,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v5.0.0
-      - name: Identify
-        run: |
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git config --global user.name "github-actions"
-      - id: step1
-        name: Release
+      - name: Release
         uses: Kir-Antipov/mc-publish@v3.3
         with:
           # Only include this section if you wish to publish
@@ -23,19 +18,7 @@ jobs:
           modrinth-token: ${{ secrets.GK1H_MODRINTH_API_KEY }}
           modrinth-files: |
             client/*.mrpack
-          curseforge-files: |
-            client/*.zip
-          # Only include this section if you wish to publish
-          # your assets on CurseForge.
-          curseforge-id: 1371586
-          curseforge-token: ${{ secrets.GK1H_CURSEFORGE_API_KEY }}
           loaders: |
             neoforge
           game-versions: |
             1.21.1
-      - name: Update CurseForge file
-        run: |
-          sed -i "s/PLACEHOLDER/"${{ steps.step1.outputs.curseforge-version }}"/g" MPUC/meta.json
-          git add MPUC/meta.json
-          git commit -m "Update CurseForge file"
-          git push origin HEAD:main
