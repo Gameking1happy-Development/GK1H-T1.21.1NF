@@ -21,5 +21,6 @@ jobs:
         with:
           message: "Test"
           files: test.txt
+          token: ${{ secrets.GH_TOKEN }}
       - name: Push
         run: git push origin HEAD:main
