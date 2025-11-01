@@ -10,4 +10,4 @@
 
 ## Reporting a Vulnerability
 
-Report a vulnerability [here.](https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/security/advisories/new)
+Report a vulnerability [here.](https://github.com/Gameking1happy-Development/GK1H-Cookies-Cream/security/advisories/new)

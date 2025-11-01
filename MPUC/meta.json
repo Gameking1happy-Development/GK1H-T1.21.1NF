@@ -8,8 +8,8 @@
       "updateType": "incompatible",
       "promotions": {
         "downloads": {
-          "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.0.0/",
-          "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.0.0/"
+          "modrinth": "https://modrinth.com/modpack/gk1h-cookies-cream/version/1.0.0/",
+          "generic": "https://github.com/Gameking1happy-Development/GK1H-Cookies-Cream/releases/tag/1.0.0/"
         }
       }
     },
@@ -19,8 +19,8 @@
       "updateType": "incompatible",
       "promotions": {
         "downloads": {
-          "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.0.1/",
-          "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.0.1/"
+          "modrinth": "https://modrinth.com/modpack/gk1h-cookies-cream/version/1.0.1/",
+          "generic": "https://github.com/Gameking1happy-Development/GK1H-Cookies-Cream/releases/tag/1.0.1/"
         }
       }
     },
@@ -30,8 +30,8 @@
       "updateType": "minor",
       "promotions": {
         "downloads": {
-          "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.0.2/",
-          "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.0.2/"
+          "modrinth": "https://modrinth.com/modpack/gk1h-cookies-cream/version/1.0.2/",
+          "generic": "https://github.com/Gameking1happy-Development/GK1H-Cookies-Cream/releases/tag/1.0.2/"
         }
       }
     },
@@ -41,8 +41,8 @@
       "updateType": "incompatible",
       "promotions": {
         "downloads": {
-          "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.1.0/",
-          "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.1.0/"
+          "modrinth": "https://modrinth.com/modpack/gk1h-cookies-cream/version/1.1.0/",
+          "generic": "https://github.com/Gameking1happy-Development/GK1H-Cookies-Cream/releases/tag/1.1.0/"
         }
       }
     },
@@ -52,8 +52,8 @@
       "updateType": "incompatible",
       "promotions": {
         "downloads": {
-          "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.1.1/",
-          "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.1.1/"
+          "modrinth": "https://modrinth.com/modpack/gk1h-cookies-cream/version/1.1.1/",
+          "generic": "https://github.com/Gameking1happy-Development/GK1H-Cookies-Cream/releases/tag/1.1.1/"
         }
       }
     },
@@ -63,8 +63,8 @@
       "updateType": "minor",
       "promotions": {
         "downloads": {
-          "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.1.2/",
-          "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.1.2/"
+          "modrinth": "https://modrinth.com/modpack/gk1h-cookies-cream/version/1.1.2/",
+          "generic": "https://github.com/Gameking1happy-Development/GK1H-Cookies-Cream/releases/tag/1.1.2/"
         }
       }
     },
@@ -74,8 +74,8 @@
       "updateType": "minor",
       "promotions": {
         "downloads": {
-          "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.1.3/",
-          "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.1.3/"
+          "modrinth": "https://modrinth.com/modpack/gk1h-cookies-cream/version/1.1.3/",
+          "generic": "https://github.com/Gameking1happy-Development/GK1H-Cookies-Cream/releases/tag/1.1.3/"
         }
       }
     },
@@ -85,8 +85,8 @@
       "updateType": "major",
       "promotions": {
         "downloads": {
-          "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.2.0/",
-          "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.2.0/"
+          "modrinth": "https://modrinth.com/modpack/gk1h-cookies-cream/version/1.2.0/",
+          "generic": "https://github.com/Gameking1happy-Development/GK1H-Cookies-Cream/releases/tag/1.2.0/"
         }
       }
     },
@@ -96,8 +96,8 @@
       "updateType": "major",
       "promotions": {
         "downloads": {
-          "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.3.0/",
-          "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.3.0/"
+          "modrinth": "https://modrinth.com/modpack/gk1h-cookies-cream/version/1.3.0/",
+          "generic": "https://github.com/Gameking1happy-Development/GK1H-Cookies-Cream/releases/tag/1.3.0/"
         }
       }
     },
@@ -107,8 +107,8 @@
       "updateType": "minor_breaking",
       "promotions": {
         "downloads": {
-          "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.3.1/",
-          "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.3.1/"
+          "modrinth": "https://modrinth.com/modpack/gk1h-cookies-cream/version/1.3.1/",
+          "generic": "https://github.com/Gameking1happy-Development/GK1H-Cookies-Cream/releases/tag/1.3.1/"
         }
       }
     },
@@ -118,8 +118,8 @@
       "updateType": "minor_breaking",
       "promotions": {
         "downloads": {
-          "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.3.2/",
-          "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.3.2/"
+          "modrinth": "https://modrinth.com/modpack/gk1h-cookies-cream/version/1.3.2/",
+          "generic": "https://github.com/Gameking1happy-Development/GK1H-Cookies-Cream/releases/tag/1.3.2/"
         }
       }
     },
@@ -129,8 +129,8 @@
       "updateType": "minor_breaking",
       "promotions": {
         "downloads": {
-          "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.3.3/",
-          "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.3.3/"
+          "modrinth": "https://modrinth.com/modpack/gk1h-cookies-cream/version/1.3.3/",
+          "generic": "https://github.com/Gameking1happy-Development/GK1H-Cookies-Cream/releases/tag/1.3.3/"
         }
       }
     },
@@ -140,8 +140,8 @@
       "updateType": "minor",
       "promotions": {
         "downloads": {
-          "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.3.4/",
-          "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.3.4/"
+          "modrinth": "https://modrinth.com/modpack/gk1h-cookies-cream/version/1.3.4/",
+          "generic": "https://github.com/Gameking1happy-Development/GK1H-Cookies-Cream/releases/tag/1.3.4/"
         }
       }
     },
@@ -151,8 +151,8 @@
       "updateType": "incompatible",
       "promotions": {
         "downloads": {
-          "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.4.0/",
-          "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.4.0/"
+          "modrinth": "https://modrinth.com/modpack/gk1h-cookies-cream/version/1.4.0/",
+          "generic": "https://github.com/Gameking1happy-Development/GK1H-Cookies-Cream/releases/tag/1.4.0/"
         }
       }
     },
@@ -162,8 +162,8 @@
       "updateType": "minor",
       "promotions": {
         "downloads": {
-          "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.4.1/",
-          "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.4.1/"
+          "modrinth": "https://modrinth.com/modpack/gk1h-cookies-cream/version/1.4.1/",
+          "generic": "https://github.com/Gameking1happy-Development/GK1H-Cookies-Cream/releases/tag/1.4.1/"
         }
       }
     },
@@ -173,8 +173,8 @@
       "updateType": "minor_breaking",
       "promotions": {
         "downloads": {
-          "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.4.2/",
-          "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.4.2/"
+          "modrinth": "https://modrinth.com/modpack/gk1h-cookies-cream/version/1.4.2/",
+          "generic": "https://github.com/Gameking1happy-Development/GK1H-Cookies-Cream/releases/tag/1.4.2/"
         }
       }
     },
@@ -184,8 +184,8 @@
       "updateType": "major",
       "promotions": {
         "downloads": {
-          "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.5.0/",
-          "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.5.0/"
+          "modrinth": "https://modrinth.com/modpack/gk1h-cookies-cream/version/1.5.0/",
+          "generic": "https://github.com/Gameking1happy-Development/GK1H-Cookies-Cream/releases/tag/1.5.0/"
         }
       }
     },
@@ -195,8 +195,8 @@
       "updateType": "minor_breaking",
       "promotions": {
         "downloads": {
-          "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.5.1/",
-          "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.5.1/"
+          "modrinth": "https://modrinth.com/modpack/gk1h-cookies-cream/version/1.5.1/",
+          "generic": "https://github.com/Gameking1happy-Development/GK1H-Cookies-Cream/releases/tag/1.5.1/"
         }
       }
     },
@@ -206,8 +206,8 @@
       "updateType": "minor",
       "promotions": {
         "downloads": {
-          "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.5.2/",
-          "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.5.2/"
+          "modrinth": "https://modrinth.com/modpack/gk1h-cookies-cream/version/1.5.2/",
+          "generic": "https://github.com/Gameking1happy-Development/GK1H-Cookies-Cream/releases/tag/1.5.2/"
         }
       }
     },
@@ -217,8 +217,8 @@
       "updateType": "minor_breaking",
       "promotions": {
         "downloads": {
-          "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.6.0/",
-          "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.6.0/"
+          "modrinth": "https://modrinth.com/modpack/gk1h-cookies-cream/version/1.6.0/",
+          "generic": "https://github.com/Gameking1happy-Development/GK1H-Cookies-Cream/releases/tag/1.6.0/"
         }
       }
     },
@@ -228,8 +228,19 @@
       "updateType": "major",
       "promotions": {
         "downloads": {
-          "modrinth": "https://modrinth.com/modpack/gk1h-t1.21.1nf/version/1.7.0/",
-          "generic": "https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/releases/tag/1.7.0/"
+          "modrinth": "https://modrinth.com/modpack/gk1h-cookies-cream/version/1.7.0/",
+          "generic": "https://github.com/Gameking1happy-Development/GK1H-Cookies-Cream/releases/tag/1.7.0/"
+        }
+      }
+    },
+    {
+      "id": "21.1.1.0",
+      "releasedAt": 1761965503000,
+      "updateType": "major",
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/gk1h-cookies-cream/version/21.1.1.0/",
+          "generic": "https://github.com/Gameking1happy-Development/GK1H-Cookies-Cream/releases/tag/21.1.1.0/"
         }
       }
     }

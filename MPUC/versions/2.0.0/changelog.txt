@@ -1,0 +1,11 @@
+# GK1HC&C 21.1.1.0 - Versioning & Name Change
+
+## Changes
+
+Renamed to GK1H Cookies & Cream.
+
+Changed versioning to [Minecraft Minor].[Minecraft Patch].[Major].[Minor].
+
+## Current Issues
+
+Totem of Neverdying (from Netherite Extras) cannot be equipped in the charm slot. Accessiorify does not currently have compatibility with Netherite Extras. I have opened an issue on their GitHub to see if they can add compatibility. In the meantime, you can use the totem in your offhand or main hand.

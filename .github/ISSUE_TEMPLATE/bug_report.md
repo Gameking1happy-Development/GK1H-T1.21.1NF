@@ -7,7 +7,7 @@ assignees: Gameking1happy
 type: Bug
 
 ---
-<!--IF THIS IS A SECURITY VULNERABILITY OPEN A REPORT FOR THAT HERE: https://github.com/Gameking1happy-Development/GK1H-T1.21.1NF/security/advisories/new-->
+<!--IF THIS IS A SECURITY VULNERABILITY OPEN A REPORT FOR THAT HERE: https://github.com/Gameking1happy-Development/GK1H-Cookies-Cream/security/advisories/new-->
 **Describe the bug**  
 <!--Give a clear and concise description of what the bug is.-->
 
