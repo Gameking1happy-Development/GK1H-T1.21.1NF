@@ -1,0 +1,1 @@
+A modpack which is intended to have a vanilla feel made by GK1H Dev. Name is a reference to ice cream flavors.
